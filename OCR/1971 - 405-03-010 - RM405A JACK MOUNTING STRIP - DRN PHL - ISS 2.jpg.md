@@ -35,7 +35,7 @@ Mechanical drawing of a jack mounting strip, title block at bottom right.
 - **Words (OCR):** 30 in 30 lines: 6-32 UnC THRU · TYP 5 HOLES · 468 DIAA · TYP3 HOLES · /,250 · {.250 · '375 · I.00 · 625 · .625 · .42= · /.650
 - **Title block:** (257, 18)–(376, 60) mm: MaRd · BECK · PHIL · RM4054 · JuNe 7( · JAck · DATE
 
-Every curve, box, word and wire group: [1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2 (traced).json](../MECHANICAL/1971%20-%20405-03-010%20-%20RM405A%20JACK%20MOUNTING%20STRIP%20-%20DRN%20PHL%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2 (traced).json](../MECHANICAL/1971%20-%20405-03-010%20-%20RM405A%20JACK%20MOUNTING%20STRIP%20-%20DRN%20PHL%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2 (traced).dxf`).
 
 ## Full text
 

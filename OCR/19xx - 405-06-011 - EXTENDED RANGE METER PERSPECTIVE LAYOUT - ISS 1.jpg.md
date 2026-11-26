@@ -31,7 +31,7 @@ Perspective layout drawing of the M405D rack-mount extended range meter.
 - **Words (OCR):** 39 in 36 lines: SA14-055 · M78OE · :V6Waxa · EXTENDED RANGE · AMPLIFIER · POWER SUPPLY · ASSEMBLY · TB1 · 4447} · 337,1,8/7 ,7 · RANGE · LUBE
 - **Title block:** (200, 28)–(432, 141) mm: WBS · HDST · M405d · J1,J2 · WBS · WARD-BECK SYSTEMB
 
-Every curve, box, word and wire group: [19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-06-011%20-%20EXTENDED%20RANGE%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-06-011%20-%20EXTENDED%20RANGE%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

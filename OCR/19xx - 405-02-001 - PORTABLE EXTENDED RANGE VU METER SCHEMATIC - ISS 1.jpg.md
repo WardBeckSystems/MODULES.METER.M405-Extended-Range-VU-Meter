@@ -34,7 +34,7 @@ Schematic of the portable M405 extended range VU meter.
 - **Words (OCR):** 70 in 64 lines: +22.SV · Rz} R25 · FilteR · 2NLAOE · 2N5163 · Zhlloi · Z0k · SwZa  150 · 22/35 22/15 · I5k < · MaTCH · 1N4148
 - **Wiring (first pass):** 100 connected wire groups from 734 runs; labelled ends: 474 mm → CRI', 4i, 0027, 0.047; 291 mm → R26, 47k, 27k, 2N5O87; 234 mm → 2k2, 100/25, 100/40, 2k4; 129 mm → 0.047; 124 mm → IN4OOS, IN4OOJ, 2k2, 100/40
 
-Every curve, box, word and wire group: [19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-02-001%20-%20PORTABLE%20EXTENDED%20RANGE%20VU%20METER%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-02-001%20-%20PORTABLE%20EXTENDED%20RANGE%20VU%20METER%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

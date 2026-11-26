@@ -30,7 +30,7 @@ Rotated spiral-bound manual page showing M405F perspective layout.
 - **Circles and arcs:** 7 circles, 0 arcs; largest r 3.4 @ (266.9, 117.6), r 2.8 @ (266.5, 126.4), r 2.6 @ (266.5, 117.5), r 2.6 @ (247.2, 126.4)
 - **Closed boxes:** 1
 
-Every curve, box, word and wire group: [19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-06-015%20-%20EXTENDED%20RANGE%20VU%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-06-015%20-%20EXTENDED%20RANGE%20VU%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

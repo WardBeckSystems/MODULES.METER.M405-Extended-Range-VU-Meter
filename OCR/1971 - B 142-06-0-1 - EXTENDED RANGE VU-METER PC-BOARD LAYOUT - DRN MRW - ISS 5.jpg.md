@@ -22,6 +22,16 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Size:** 4,690,892 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout B 142-06-0?1, size B 432 × 307 mm, 2000 × 1423 px traced (0.216 mm/px), turned 270°
+- **Ink extent:** 0–432 mm across, 16–307 mm up
+- **Outlines:** line 1,702 rings, 17,194 straight (19,056 mm) / 5,061 curved (4,798 mm); text 166 rings, 1,568 straight (1,426 mm) / 517 curved (565 mm)
+- **Closed boxes:** 24
+- **Dots (junctions):** 4
+
+Every curve, box, word and wire group: [1971 - B 142-06-0-1 - EXTENDED RANGE VU-METER PC-BOARD LAYOUT - DRN MRW - ISS 5 (traced).json](../SCHEMATICS/1971%20-%20B%20142-06-0-1%20-%20EXTENDED%20RANGE%20VU-METER%20PC-BOARD%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1971 - B 142-06-0-1 - EXTENDED RANGE VU-METER PC-BOARD LAYOUT - DRN MRW - ISS 5 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

@@ -34,7 +34,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 45 in 33 lines: I.00 · '75 · 40 · NOTES: · REMOVE ALL BURRS & SHARP EDGES · '42 · 19 · 406 · HOLES 6-32 · UNC THD, · 3 HOLEs '468 DIA · ss MOD [CKD
 - **Title block:** (148, 4)–(411, 56) mm: ss MOD [CKD · USED ON · MATL · WBS WARD-BECK sysTEMs LTD: · 0405-03-013 · BLAcK · D495-03-015 · BAKELITE · DRN: Gp · DATE · AUS: 73 · FINISH · JACK MOUNTING STRIP · NATURAL · CKD · N.p · SCALE · TOLS 
 
-Every curve, box, word and wire group: [1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1 (traced).json](../MECHANICAL/1973%20-%20405-03-012%20-%20JACK%20MOUNTING%20STRIP%20-%20DRN%20GP%20-%20ISS%201%20(traced).json) (the CAD file: `1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1 (traced).json](../MECHANICAL/1973%20-%20405-03-012%20-%20JACK%20MOUNTING%20STRIP%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1 (traced).dxf`).
 
 ## Full text
 

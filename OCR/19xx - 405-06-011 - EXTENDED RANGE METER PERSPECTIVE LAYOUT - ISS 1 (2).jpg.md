@@ -31,7 +31,7 @@ Perspective layout drawing of the M405D meter chassis.
 - **Words (OCR):** 43 in 40 lines: SA14-055 · M78OE · YMiJ · EXTENDED · RANGE AMPLIFIER · POWER SUPPLY · ASSEMBLY · TB1 · 344 · Toa · 8,7,8,7 , 7_ · RANGE
 - **Title block:** (195, 29)–(432, 144) mm: HDst · WBS · T1 · M40sd · J1,J2 · WBS · WARD-BECK SYSTEMB
 
-Every curve, box, word and wire group: [19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20405-06-011%20-%20EXTENDED%20RANGE%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20405-06-011%20-%20EXTENDED%20RANGE%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

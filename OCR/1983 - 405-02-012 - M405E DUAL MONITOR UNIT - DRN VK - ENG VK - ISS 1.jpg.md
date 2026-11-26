@@ -37,7 +37,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Title block:** (358, 22)–(432, 32) mm: WBS · WAAD-BECK BYBTEMS
 - **Wiring (first pass):** 59 connected wire groups from 449 runs; labelled ends: 78 mm → WBS, LB/405-02-012; 77 mm → WAAD-BECK BYBTEMS; 71 mm → WBS, WAAD-BECK BYBTEMS; 68 mm → 14848; 22 mm → 012
 
-Every curve, box, word and wire group: [1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1 (traced).json](../SCHEMATICS/1983%20-%20405-02-012%20-%20M405E%20DUAL%20MONITOR%20UNIT%20-%20DRN%20VK%20-%20ENG%20VK%20-%20ISS%201%20(traced).json) (the CAD file: `1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1 (traced).json](../SCHEMATICS/1983%20-%20405-02-012%20-%20M405E%20DUAL%20MONITOR%20UNIT%20-%20DRN%20VK%20-%20ENG%20VK%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1 (traced).dxf`).
 
 ## Full text
 

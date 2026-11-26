@@ -32,7 +32,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 22 in 16 lines: 0,771 · 1850 · REQ · 0,787 · MATERIAL: CRS: 0.105 ThICK, · FINISH: SAND 120 GriT AND PAINT · TEXTURED BROWN (438C) · TEXCOTE VNY · WBS · WARD-BECK SYSTEMS · TOLER 'LES · BUkAS AND
 - **Title block:** (671, 47)–(839, 80) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20405-03-084%20-%20M405S%20BASE%20-%20DRN%20DRG%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20405-03-084%20-%20M405S%20BASE%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

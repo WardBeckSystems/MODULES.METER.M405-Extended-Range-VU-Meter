@@ -31,7 +31,7 @@ Perspective layout drawing of the M405F single-VU extended range meter.
 - **Words (OCR):** 26 in 26 lines: M780E · SA 14-055A · EXTENDED RANGE AMPLIFIER · POWER SUPPLY · ASSEMBLY · TB1 · aridgl · INPUT · Filter · JRPUT · WBS · Hos]
 - **Title block:** (192, 37)–(432, 146) mm: WBS · Hos] · J1,J2 · WBS · WAAD-BECK BYBTEMB
 
-Every curve, box, word and wire group: [19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20405-06-015%20-%20EXTENDED%20RANGE%20VU%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20405-06-015%20-%20EXTENDED%20RANGE%20VU%20METER%20PERSPECTIVE%20LAYOUT%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

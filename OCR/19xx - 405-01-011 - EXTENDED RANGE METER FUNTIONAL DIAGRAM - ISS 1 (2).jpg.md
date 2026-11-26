@@ -34,7 +34,7 @@ Functional block diagram of the M405D extended range meter.
 - **Title block:** (334, 36)–(432, 52) mm: WBS · WARD-BECK BybtemB
 - **Wiring (first pass):** 169 connected wire groups from 436 runs; labelled ends: 87 mm → IRFCT; 34 mm → EXTERDED, Amolicile; 33 mm → IRFCT; 21 mm → HEADSET, outpui; 16 mm → HEADSET, outpui
 
-Every curve, box, word and wire group: [19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20405-01-011%20-%20EXTENDED%20RANGE%20METER%20FUNTIONAL%20DIAGRAM%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20405-01-011%20-%20EXTENDED%20RANGE%20METER%20FUNTIONAL%20DIAGRAM%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

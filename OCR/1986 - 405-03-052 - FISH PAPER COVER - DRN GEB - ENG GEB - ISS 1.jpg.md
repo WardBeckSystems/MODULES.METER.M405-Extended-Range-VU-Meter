@@ -34,7 +34,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 37 in 31 lines: NoTES · MAIERIAL · PAPER · Fish · 032 Thick · CLEAN · 281 DIA · TOLERANCES · Xx · 015 · XXX · 0o5
 - **Title block:** (278, 5)–(430, 73) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN GEB · ENG_ GEB · Fish PAPER · CKD_ · COVER · APP · SCALE · ISSUE · 405-03 · 052
 
-Every curve, box, word and wire group: [1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1986%20-%20405-03-052%20-%20FISH%20PAPER%20COVER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1986%20-%20405-03-052%20-%20FISH%20PAPER%20COVER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

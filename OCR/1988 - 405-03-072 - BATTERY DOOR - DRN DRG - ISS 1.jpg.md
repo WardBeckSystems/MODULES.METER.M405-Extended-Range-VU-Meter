@@ -33,7 +33,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 64 in 45 lines: 4.10 · 0.175 · 3.75 · ALUM ALLOY 0.125 THICK · 0.375 · 3.000 · ALUM ALLOY 0.064 THICK · 0.20 · 0.45 · 0.962 · 3.30 · 2.40
 - **Title block:** (249, 11)–(420, 78) mm: ISSUE| DATE · REVSION · APP · WBS · WARD-BECK SYSTEMS · DRN: DRG 8/88 · ENG- · BA TTERY DOOR · CKD; · APP · SCALE DISC NO: 163 · 405-03-072 · ISSUE · 1:1 CODE: 405m72
 
-Every curve, box, word and wire group: [1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1988%20-%20405-03-072%20-%20BATTERY%20DOOR%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1988%20-%20405-03-072%20-%20BATTERY%20DOOR%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

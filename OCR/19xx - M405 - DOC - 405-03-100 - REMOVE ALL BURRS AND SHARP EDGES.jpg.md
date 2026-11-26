@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 45 in 41 lines: 2.750 · 2lbo · 2.375 · 375 · 150 · NOTES · MATERIAL · 20GA. (.036) CRS · ATOLERANCES XXX · 005 · 3) REMOVE ALL BURRS AND SHARP EDGES · FinISH PAINT
 - **Title block:** (278, 10)–(432, 213) mm: 3) REMOVE ALL BURRS AND SHARP EDGES · FinISH PAINT · MATTE wBS Geex · ISSUE DATE · REVISION · APP · SYSTEMS · WBS WARD-BECK · DRN_ · TR. 5/+ · M405 · ENG TR · CKD: · BATTERY BRACKET · APP · SCALE · IS
 
-Every curve, box, word and wire group: [19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M405%20-%20DOC%20-%20405-03-100%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20(traced).json) (the CAD file: `19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M405%20-%20DOC%20-%20405-03-100%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
 
 ## Full text
 

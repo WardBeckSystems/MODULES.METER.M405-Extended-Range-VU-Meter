@@ -32,7 +32,7 @@ Front panel machining drawing, upside down, title block at top left.
 - **Circles and arcs:** 6 circles, 40 arcs; largest r 2.4 @ (357.7, 383.2), r 1.9 @ (116.6, 94.2), r 1.8 @ (148.8, 94.1), r 1.8 @ (123.2, 113.8)
 - **Closed boxes:** 62
 
-Every curve, box, word and wire group: [1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG (traced).json](../MECHANICAL/1995%20-%20405-03-081%20-%20M405M%20FRONT%20PANEL%20-%20DRN%20DRG%20(traced).json) (the CAD file: `1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG (traced).json](../MECHANICAL/1995%20-%20405-03-081%20-%20M405M%20FRONT%20PANEL%20-%20DRN%20DRG%20%28traced%29.json) (the CAD file: `1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG (traced).dxf`).
 
 ## Full text
 

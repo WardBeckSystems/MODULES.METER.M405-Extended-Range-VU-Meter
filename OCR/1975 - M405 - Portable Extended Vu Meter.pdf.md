@@ -22,7 +22,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 16 in 10 lines: WBS 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTARIO M1h2xa · WARD-BECK systems LTD_ · TeleX 065-25399 · TELEPHONE: 418/438-6550 · M4o5 · PORTABLE EXTENDED RANGE · VU MeteR · MANUAL · LSSUE #2 · JUlY 1984
 - **Title block:** (50, 389)–(269, 425) mm: WBS 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTARIO M1h2xa · WARD-BECK systems LTD_ · TeleX 065-25399 · TELEPHONE: 418/438-6550
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p1 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p1%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p1 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p1%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Closed boxes:** 1
 - **Words (OCR):** 47 in 32 lines: TABLE OF · CONTENIS · M4o5 PORTABLE EXTENDED RANGE vu METER · SECTiON · PAGE · Warranty · Technical Data · 1-1 · General · Circuit Description · 3-1 to · 3-2
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p2 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p2%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p2 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p2%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Dots (junctions):** 3
 - **Words (OCR):** 149 in 84 lines: TECHNICAL DATA · MLos PORTABLE EXTENDED · RANGE vu · METER · dBm to · +30  dBm in · dB steps · for · Range: · 50 · vu reading · Frequency Response:
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p3 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p3%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p3 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p3%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 229 in 110 lines: WAAD-BECK 8ybtems LTD; · GENERAL · M4os PORTABLE EXTENDED RANGE vu METER · The M405 Extended · Range vu · Meter is an · ac/battery operated, · portable · instrument designed · for the · measurement · of
 - **Title block:** (33, 279)–(276, 424) mm: WAAD-BECK 8ybtems LTD; · GENERAL · M4os PORTABLE EXTENDED RANGE vu METER · The M405 Extended · Range vu · Meter is an · ac/battery operated, · portable · instrument designed · for the · measurement · 
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p4 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p4%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p4 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p4%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p4 (traced).dxf`).
 
 ### Page 5
 
@@ -65,7 +65,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 380 in 168 lines: WAAD-BECK systems LTD · CiRcuiT DESCRIPUON · M4o5 PORTABLE EXTENDED RANGE vu · METER · The signal · input t0 the · M4o5 Extended · Range vu Meter may · via · be · binding post · terminals J2 and
 - **Title block:** (32, 189)–(221, 426) mm: WAAD-BECK systems LTD · CiRcuiT DESCRIPUON · M4o5 PORTABLE EXTENDED RANGE vu · The signal · input t0 the · M4o5 Extended · binding post · terminals J2 and · J3 or · telephone jack · JI automatically d
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p5 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p5%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p5 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p5%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Dots (junctions):** 3
 - **Words (OCR):** 197 in 114 lines: WAAD-BECK SysteMS LTD_ · CiRcUiT DESCRIPT ION · M4o5 · PORTABLE EXTENDED · RANGE · vu METER · coupling capacitor · the · signal · the vu meter · Output · connects
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p6 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p6%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p6 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p6%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p6 (traced).dxf`).
 
 ### Page 7
 
@@ -87,7 +87,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 300 in 161 lines: WARD-BECK Systems LTD_ · OPERATIONAL DESCRIPTION · M4o5 · PORTABLE · EXTENDED RANGE vu · METER · B4O5-04-001 ) · (Refer · to Front Rear Layout · vu Meter rovement. · Standard sca · Ie, movement
 - **Title block:** (32, 176)–(256, 427) mm: WARD-BECK Systems LTD_ · OPERATIONAL DESCRIPTION · M4o5 · PORTABLE · EXTENDED RANGE vu · METER · B4O5-04-001 ) · (Refer · to Front Rear Layout · vu Meter rovement. · Standard sca · Ie, movement · vu M
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p7 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p7%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p7 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p7 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p7%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p7 (traced).dxf`).
 
 ### Page 8
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 211 in 94 lines: WARD-BECK SysTems LTD; · OPERATIONAL DESCRIPT ION · MLo5 PORTABLE EXTENDED RANGE vu METER · An · input · connected to · the meter · via the · telephone type · input · binding post · jack automatically
 - **Title block:** (24, 180)–(163, 432) mm: WARD-BECK SysTems LTD; · An · input · connected to · jack automatically · disconnects the · the input circuit · The M4o5 input · of the telephonc jack · and the · connected · the chassis · headset may
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p8 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p8%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p8 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p8 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p8%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Dots (junctions):** 1
 - **Words (OCR):** 370 in 173 lines: WARD-BeCK ByBTemS LTO_ · MAINTENANCE · Mlos · PORTABLE EXTENDED · RANGE vu · METER · The MLo5 is · designed for · dependab Ie, trouble-free service. · However · as · with all high quality
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p9 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p9%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p9 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p9 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p9%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Dots (junctions):** 1
 - **Words (OCR):** 98 in 69 lines: DC · VOLTAGE · CHART · M4o5_PORTABLE EXTENDED · RANGE vu · METER · VE · VC · VB · 01 · 22 · 22
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p10 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p10%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p10 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p10 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p10%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p10 (traced).dxf`).
 
 ### Page 11
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Outlines:** line 155 rings, 1,364 straight (4,095 mm) / 252 curved (393 mm); text 864 rings, 6,885 straight (7,883 mm) / 2,028 curved (3,163 mm)
 - **Words (OCR):** 132 in 116 lines: WAAD-BECK BybTemb LTD, · PARTS LiST · M4o5 · EXTENDED RANGE vu · METER · PART · DESCRIPTION · MFG · MFG PART NUMBER · B1 · B2 ) · Battery
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p11 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p11%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p11 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p11 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p11%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p11 (traced).dxf`).
 
 ### Page 12
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 130 in 109 lines: WAAD-BECK sybtems LTD; · PARTS · M4o5 EXTENDED · RANGE vu METER · NUMBER · PART DESCRIPTION · MFG · MFG PART · HI · Smal Knob · Elma · 023_4520
 - **Title block:** (21, 172)–(199, 430) mm: WAAD-BECK sybtems LTD; · PARTS · M4o5 EXTENDED · RANGE vu METER · PART DESCRIPTION · MFG · HI · Smal Knob · Elma · Black Cap · H2 · Large Knob · EI ma · Black Cap · Skirt · Ji · Jack · ADC · J2 · Bind
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p12 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p12%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p12 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p12 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p12%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p12 (traced).dxf`).
 
 ### Page 13
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Outlines:** line 191 rings, 1,324 straight (4,305 mm) / 282 curved (428 mm); text 698 rings, 5,557 straight (6,352 mm) / 1,702 curved (2,627 mm)
 - **Words (OCR):** 124 in 108 lines: WAAD-BECK SysTEms LTD · PARTS LIST · M4o5 EXTENDED RANGE vu · METER · PART · DESCRIPTION · MFg · MFG PART NUMBER · R1o · Trim Pot · 500 · Piner
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p13 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p13%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p13 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p13 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p13%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p13 (traced).dxf`).
 
 ### Page 14
 
@@ -155,7 +155,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 47 in 27 lines: WAAD-BECK Bystems LTD · PARTS List · M4o5 EXTENDED RANGE vu METER · PART DESCRIPTION · MFG · MFG PART NUMBER · Ti · Power Transformer · Hammond · 166c50 · Fuse Clip · Littlefuse
 - **Title block:** (27, 44)–(93, 432) mm: WAAD-BECK Bystems LTD · PART DESCRIPTION · Ti · Fuse Clip · WBS recommends the use · manufacturers for
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p14 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p14%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p14 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p14%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p14 (traced).dxf`).
 
 ### Page 15
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 61 in 53 lines: +22-Sv · Srzs · Qhscs · puasd · JlLO · 7h5i6r · JaLLOI · 04 · 22/'15 22/15 · MITCh · ILOTE J · Th4iP
 - **Wiring (first pass):** 99 connected wire groups from 713 runs; labelled ends: 518 mm → ILOTE J, JNSE, S620,, 0,07; 300 mm → 105k >, '53, 'n0, 10/25; 233 mm → 93, 1CJ/?5, ICO/LC, 0Woc; 144 mm → Icox; 119 mm → Icox, J/ol
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p15 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p15%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p15 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p15 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p15%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p15 (traced).dxf`).
 
 ### Page 16
 
@@ -182,7 +182,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 31 in 25 lines: CHARGE · ON TEST · OFF · 20 · 20 · 10 · 40 · 150 · 20k IN · 50 · 600 MATCH OUT · WBS
 - **Title block:** (135, 47)–(426, 206) mm: WBS · M405 · EXT RANGE VU · INPUT · HDST · WBS WAAD-BECK BYBTEMB
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p16 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p16%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p16 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p16 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p16%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p16 (traced).dxf`).
 
 ### Page 17
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter
 - **Words (OCR):** 59 in 50 lines: ZN3645 · 07 · 00 · 51 · ZN4LO1 · 2N5087 · 914 · 43 2 2 · 2NLLOI · 31 · 2N5087 · R18
 - **Title block:** (201, 48)–(326, 72) mm: WBS WARD-BECK BySTEMB
 
-Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p17 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p17%20(traced).json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p17 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - Portable Extended Vu Meter p17 (traced).json](../MANUALS/1975%20-%20M405%20-%20Portable%20Extended%20Vu%20Meter%20p17%20%28traced%29.json) (the CAD file: `1975 - M405 - Portable Extended Vu Meter p17 (traced).dxf`).
 
 ## Full text
 

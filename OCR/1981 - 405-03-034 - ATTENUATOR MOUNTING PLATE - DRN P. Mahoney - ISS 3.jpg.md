@@ -34,7 +34,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 45 in 36 lines: 3.375 · 4.627 · 2.975 · 4.487 · SOe · 487 4 PLACES · DIA: · 187 DIA. CSK AT 820 To.330_ DIA . · 1.312 · 2 PLACES · 1.125 · 2.625
 - **Title block:** (279, 2)–(432, 70) mm: DIA Wae · "/36 DIA · AF · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: RMAHoNeY] · ENG. · ATTENUATOR MoUNTING · PLATE · APP · SCALE · ISSUE · 405-03-034
 
-Every curve, box, word and wire group: [1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3 (traced).json](../MECHANICAL/1981%20-%20405-03-034%20-%20ATTENUATOR%20MOUNTING%20PLATE%20-%20DRN%20P.%20Mahoney%20-%20ISS%203%20(traced).json) (the CAD file: `1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3 (traced).json](../MECHANICAL/1981%20-%20405-03-034%20-%20ATTENUATOR%20MOUNTING%20PLATE%20-%20DRN%20P.%20Mahoney%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3 (traced).dxf`).
 
 ## Full text
 

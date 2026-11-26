@@ -22,7 +22,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 31 in 25 lines: 484481& · Ju · CHARGE · ON TEST · Off · 20 · 20 · 10 · 20k · 40 · 50 · 150
 - **Title block:** (135, 47)–(426, 206) mm: WBS · M4os · INPUT · HDST · WBS WAAD-BECK ByBTEMB
 
-Every curve, box, word and wire group: [1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE (traced).json](../MECHANICAL/1975%20-%20M405%20-%20405-04-013%20-%20PORTABLE%20EXTENDED%20RANGE%20(traced).json) (the CAD file: `1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE (traced).json](../MECHANICAL/1975%20-%20M405%20-%20405-04-013%20-%20PORTABLE%20EXTENDED%20RANGE%20%28traced%29.json) (the CAD file: `1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE (traced).dxf`).
 
 ## Full text
 

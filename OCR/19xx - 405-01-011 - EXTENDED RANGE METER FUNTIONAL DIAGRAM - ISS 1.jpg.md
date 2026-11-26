@@ -33,7 +33,7 @@ Rotated manual page with M405D extended range meter functional diagram.
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 164 connected wire groups from 459 runs
 
-Every curve, box, word and wire group: [19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-01-011%20-%20EXTENDED%20RANGE%20METER%20FUNTIONAL%20DIAGRAM%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20405-01-011%20-%20EXTENDED%20RANGE%20METER%20FUNTIONAL%20DIAGRAM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Rotated manual page showing M405 VU meter front and rear layout.
 - **Closed boxes:** 5
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2) (traced).json](../MECHANICAL/19xx%20-%20405-04-013%20-%20PORTABLE%20EXTENDED%20RANGE%20VU%20METER%20FRONT%20%26%20REAR%20LAYOUT%20-%20ISS%202%20(2)%20(traced).json) (the CAD file: `19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2) (traced).json](../MECHANICAL/19xx%20-%20405-04-013%20-%20PORTABLE%20EXTENDED%20RANGE%20VU%20METER%20FRONT%20%26%20REAR%20LAYOUT%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

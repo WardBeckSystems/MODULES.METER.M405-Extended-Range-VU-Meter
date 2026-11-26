@@ -35,7 +35,7 @@ Wiki page: [M405](../../../../PAGES/M405.md)
 - **Words (OCR):** 1 in 1 lines: Iu
 - **Wiring (first pass):** 75 connected wire groups from 487 runs, 2 dotted junctions; labelled ends: 250 mm → Iu; 71 mm → Iu; 42 mm → Iu; 23 mm → Iu; 21 mm → Iu
 
-Every curve, box, word and wire group: [1968 - 405-02-001 - EXTENDED RANGE VU SCHEMATIC - DRN C.S. O'CONNELL - ISS 8 (traced).json](../SCHEMATICS/1968%20-%20405-02-001%20-%20EXTENDED%20RANGE%20VU%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%208%20(traced).json) (the CAD file: `1968 - 405-02-001 - EXTENDED RANGE VU SCHEMATIC - DRN C.S. O'CONNELL - ISS 8 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 405-02-001 - EXTENDED RANGE VU SCHEMATIC - DRN C.S. O'CONNELL - ISS 8 (traced).json](../SCHEMATICS/1968%20-%20405-02-001%20-%20EXTENDED%20RANGE%20VU%20SCHEMATIC%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%208%20%28traced%29.json) (the CAD file: `1968 - 405-02-001 - EXTENDED RANGE VU SCHEMATIC - DRN C.S. O'CONNELL - ISS 8 (traced).dxf`).
 
 ## Full text
 
