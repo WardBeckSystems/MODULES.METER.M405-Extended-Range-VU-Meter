@@ -1,0 +1,89 @@
+{
+ "drawing": "Modules/METER/M405/MECHANICAL/19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/b690e49c6dab222a.svg",
+ "sheet": {
+  "number": "B 405-04-013",
+  "title": "PORTABLE EXTENDED RANGE VU METER / FRONT &amp; REAR LAYOUT",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1435],
+  "mm": [431.8, 309.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 0.0, 429.5, 309.8],
+ "outlines": {
+  "line": {"rings": 304, "straight": {"n": 3614, "mm": 7664.1}, "curved": {"n": 706, "mm": 1621.0}},
+  "text": {"rings": 171, "straight": {"n": 1221, "mm": 1264.6}, "curved": {"n": 379, "mm": 522.8}},
+  "tb": {"rings": 1, "straight": {"n": 52, "mm": 102.7}, "curved": {"n": 4, "mm": 6.3}}
+ },
+ "circles": [
+  {"c": [285.0, 159.0], "r": 10.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 5.0},
+  {"c": [254.4, 159.2], "r": 6.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [298.6, 117.1], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [108.0, 69.4], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [200.4, 171.4], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [211.0, 85.4], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [200.1, 146.9], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [200.3, 120.4], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [202.4, 100.5], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [254.4, 67.9], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [201.7, 205.0], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [284.2, 66.9], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [336.5, 147.3], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [280.2, 117.2], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [254.6, 176.6], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [258.3, 117.6], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [269.1, 117.4], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [289.4, 117.2], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [280.1, 117.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [298.6, 117.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [254.6, 176.7], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [101.6, 140.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [125.0, 140.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4}
+ ],
+ "boxes": [
+  {"mm": [240.9, 198.4, 307.0, 225.9], "w": 66.1, "h": 27.5, "from": "ring"},
+  {"mm": [243.3, 200.6, 304.6, 223.7], "w": 61.3, "h": 23.2, "from": "ring"},
+  {"mm": [240.7, 184.2, 306.6, 198.4], "w": 65.8, "h": 14.2, "from": "ring"},
+  {"mm": [306.4, 104.7, 309.4, 154.4], "w": 3.0, "h": 49.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [257.8, 174.7, 269.0, 178.5], "text": "CHARGE"},
+   {"mm": [245.3, 166.5, 265.8, 170.9], "text": "OFF TEST"},
+   {"mm": [255.6, 138.4, 262.1, 142.2], "text": "Z0k"},
+   {"mm": [244.8, 129.8, 251.3, 132.9], "text": "600"},
+   {"mm": [252.8, 129.3, 272.9, 133.2], "text": "MATCH OuT"},
+   {"mm": [247.0, 126.1, 274.4, 129.9], "text": "METER 2 FILTER"},
+   {"mm": [279.4, 123.9, 299.2, 127.8], "text": "EXT RANGE VU"},
+   {"mm": [284.8, 127.2, 293.4, 130.3], "text": "M405"},
+   {"mm": [249.1, 108.8, 257.8, 112.2], "text": "IMPUT"},
+   {"mm": [275.5, 108.2, 284.8, 112.0], "text": "INPUT"},
+   {"mm": [293.8, 108.2, 302.5, 112.0], "text": "HDST"},
+   {"mm": [342.0, 39.7, 424.0, 44.5], "text": "WBS WAAD-BECK SYBTEMb"},
+   {"mm": [373.7, 27.9, 388.4, 33.1], "text": "M405"},
+   {"mm": [337.9, 21.6, 430.7, 28.1], "text": "PORTABLE EXTENDED RANGE VU METER"},
+   {"mm": [354.3, 16.4, 408.9, 21.9], "text": "FRONT & REAR LAYOUT"},
+   {"mm": [338.1, 8.0, 372.4, 13.5], "text": "B 405-04-013"},
+   {"mm": [409.3, 6.9, 421.2, 13.6], "text": "ISS."}
+  ]
+ },
+ "title_block": {"mm": [333.3, 33.5, 431.8, 50.7], "from": "title-block words (training set)", "text": ["WBS WAAD-BECK SYBTEMb"]},
+ "dots": [{"c": [258.3, 117.6], "r": 1.4, "lines": 0}, {"c": [269.0, 117.4], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout B 405-04-013, size B 432 × 310 mm, 2000 × 1435 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–430 mm across, 0–310 mm up",
+  "- **Outlines:** line 304 rings, 3,614 straight (7,664 mm) / 706 curved (1,621 mm); text 171 rings, 1,221 straight (1,265 mm) / 379 curved (523 mm); tb 1 rings, 52 straight (103 mm) / 4 curved (6.3 mm)",
+  "- **Circles and arcs:** 23 circles, 0 arcs; largest r 10.1 @ (285.0, 159.0), r 6.9 @ (254.4, 159.2), r 3.9 @ (298.6, 117.1), r 3.7 @ (108.0, 69.4)",
+  "- **Closed boxes:** 4",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 21 in 17 lines: CHARGE · OFF TEST · Z0k · 600 · MATCH OuT · METER 2 FILTER · EXT RANGE VU · M405 · IMPUT · INPUT · HDST · WBS WAAD-BECK SYBTEMb",
+  "- **Title block:** (333, 34)–(432, 51) mm: WBS WAAD-BECK SYBTEMb"
+ ]
+}

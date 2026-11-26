@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/METER/M405/MANUALS/1975 - M405 - Portable Extended Vu Meter.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/bd3436235939a5f4-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 309.4, 422.5],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 928, "mm": 3864.4}, "curved": {"n": 138, "mm": 227.5}},
+  "text": {"rings": 383, "straight": {"n": 2915, "mm": 3290.3}, "curved": {"n": 840, "mm": 1314.1}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [55.3, 413.2, 57.9, 415.4], "w": 2.6, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [133.9, 369.6, 166.9, 376.1], "text": "TABLE OF"},
+   {"mm": [169.5, 368.8, 202.9, 376.2], "text": "CONTENIS"},
+   {"mm": [93.9, 356.2, 242.2, 363.2], "text": "M4o5 PORTABLE EXTENDED RANGE vu METER"},
+   {"mm": [46.6, 330.1, 75.8, 337.1], "text": "SECTiON"},
+   {"mm": [239.4, 329.9, 256.7, 336.9], "text": "PAGE"},
+   {"mm": [87.7, 302.7, 118.7, 310.6], "text": "Warranty"},
+   {"mm": [87.7, 296.4, 139.5, 304.3], "text": "Technical Data"},
+   {"mm": [228.0, 297.7, 238.4, 303.5], "text": "1-1"},
+   {"mm": [87.9, 290.4, 113.8, 297.3], "text": "General"},
+   {"mm": [87.2, 283.3, 152.2, 290.6], "text": "Circuit Description"},
+   {"mm": [228.0, 284.1, 249.1, 290.0], "text": "3-1 to"},
+   {"mm": [251.7, 284.8, 262.5, 290.0], "text": "3-2"},
+   {"mm": [87.9, 276.8, 126.7, 283.7], "text": "Operational"},
+   {"mm": [129.5, 276.8, 167.8, 284.5], "text": "Description"},
+   {"mm": [228.0, 277.6, 248.5, 283.6], "text": "4-1 to"},
+   {"mm": [251.3, 277.4, 262.8, 283.9], "text": "4-2"},
+   {"mm": [87.9, 269.9, 129.3, 277.6], "text": "Maintenance"},
+   {"mm": [227.6, 271.0, 237.9, 277.4], "text": "5-1"},
+   {"mm": [87.9, 263.4, 147.2, 270.8], "text": "DC Voltage Chart"},
+   {"mm": [227.6, 264.5, 238.4, 271.0], "text": "6-1"},
+   {"mm": [87.9, 257.4, 123.5, 263.8], "text": "Parts List"},
+   {"mm": [228.0, 257.8, 249.1, 263.5], "text": "7-1 to"},
+   {"mm": [251.7, 258.2, 262.5, 263.5], "text": "7-4"},
+   {"mm": [87.7, 242.9, 119.2, 251.0], "text": "Drawings"},
+   {"mm": [87.9, 231.0, 149.0, 237.5], "text": "M405 Schematic"},
+   {"mm": [235.3, 231.0, 269.2, 238.0], "text": "405-02-001"},
+   {"mm": [87.9, 223.7, 134.3, 231.0], "text": "M4os Front"},
+   {"mm": [235.3, 224.8, 270.3, 231.2], "text": "405-04-013"},
+   {"mm": [145.1, 223.2, 187.2, 230.7], "text": "Rear Layout"},
+   {"mm": [87.4, 217.6, 106.9, 224.1], "text": "SA142"},
+   {"mm": [115.5, 216.8, 192.6, 224.2], "text": "PCB Component Layout"},
+   {"mm": [235.3, 217.6, 269.2, 224.1], "text": "142-06-001"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–309 mm across, 0–422 mm up",
+  "- **Outlines:** line 76 rings, 928 straight (3,864 mm) / 138 curved (228 mm); text 383 rings, 2,915 straight (3,290 mm) / 840 curved (1,314 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 47 in 32 lines: TABLE OF · CONTENIS · M4o5 PORTABLE EXTENDED RANGE vu METER · SECTiON · PAGE · Warranty · Technical Data · 1-1 · General · Circuit Description · 3-1 to · 3-2"
+ ]
+}

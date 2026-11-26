@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/METER/M405/MANUALS/1975 - M405 - Portable Extended Vu Meter.pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/bd3436235939a5f4-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 335.9, 423.2],
+ "outlines": {
+  "line": {"rings": 57, "straight": {"n": 722, "mm": 4080.3}, "curved": {"n": 96, "mm": 153.2}},
+  "text": {"rings": 381, "straight": {"n": 3054, "mm": 3462.3}, "curved": {"n": 858, "mm": 1337.1}},
+  "tb": {"rings": 5, "straight": {"n": 16, "mm": 14.4}, "curved": {"n": 7, "mm": 11.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [33.5, 417.1, 147.2, 424.7], "text": "WAAD-BECK Bystems LTD"},
+   {"mm": [151.1, 374.6, 190.4, 381.7], "text": "PARTS List"},
+   {"mm": [114.4, 361.0, 226.7, 368.8], "text": "M4o5 EXTENDED RANGE vu METER"},
+   {"mm": [47.9, 335.7, 119.8, 343.3], "text": "PART DESCRIPTION"},
+   {"mm": [184.6, 335.7, 198.0, 342.2], "text": "MFG"},
+   {"mm": [232.1, 334.2, 294.1, 341.6], "text": "MFG PART NUMBER"},
+   {"mm": [47.9, 323.4, 56.1, 329.9], "text": "Ti"},
+   {"mm": [76.0, 322.8, 139.7, 329.7], "text": "Power Transformer"},
+   {"mm": [183.9, 322.3, 214.2, 328.8], "text": "Hammond"},
+   {"mm": [232.1, 322.3, 254.1, 328.8], "text": "166c50"},
+   {"mm": [75.6, 309.0, 109.9, 316.4], "text": "Fuse Clip"},
+   {"mm": [183.5, 308.7, 217.0, 315.7], "text": "Littlefuse"},
+   {"mm": [232.1, 308.7, 252.6, 315.2], "text": "357001"},
+   {"mm": [75.8, 302.0, 118.7, 310.2], "text": "Battery Clip"},
+   {"mm": [183.9, 302.3, 212.4, 309.2], "text": "Duracel |"},
+   {"mm": [231.4, 302.3, 247.0, 308.7], "text": "DL83"},
+   {"mm": [76.0, 269.9, 114.9, 276.4], "text": "Power Cord"},
+   {"mm": [183.5, 269.4, 206.2, 275.9], "text": "Bel den"},
+   {"mm": [231.2, 268.6, 249.8, 276.5], "text": "17250"},
+   {"mm": [46.4, 51.8, 129.8, 59.2], "text": "WBS recommends the use"},
+   {"mm": [131.7, 50.7, 223.0, 58.3], "text": "of replacement parts made"},
+   {"mm": [225.4, 50.1, 234.7, 57.0], "text": "by"},
+   {"mm": [237.9, 50.1, 282.2, 57.8], "text": "the specified"},
+   {"mm": [46.4, 45.3, 107.3, 52.3], "text": "manufacturers for"},
+   {"mm": [110.1, 43.0, 209.4, 52.0], "text": "continued optimum equipment"},
+   {"mm": [211.8, 43.6, 253.0, 51.8], "text": "performance"},
+   {"mm": [162.4, 25.9, 174.2, 32.4], "text": "7-4"}
+  ]
+ },
+ "title_block": {
+  "mm": [26.7, 43.7, 93.0, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK Bystems LTD", "PART DESCRIPTION", "Ti", "Fuse Clip", "WBS recommends the use", "manufacturers for"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–423 mm up",
+  "- **Outlines:** line 57 rings, 722 straight (4,080 mm) / 96 curved (153 mm); text 381 rings, 3,054 straight (3,462 mm) / 858 curved (1,337 mm); tb 5 rings, 16 straight (14.4 mm) / 7 curved (11.2 mm)",
+  "- **Words (OCR):** 47 in 27 lines: WAAD-BECK Bystems LTD · PARTS List · M4o5 EXTENDED RANGE vu METER · PART DESCRIPTION · MFG · MFG PART NUMBER · Ti · Power Transformer · Hammond · 166c50 · Fuse Clip · Littlefuse",
+  "- **Title block:** (27, 44)–(93, 432) mm: WAAD-BECK Bystems LTD · PART DESCRIPTION · Ti · Fuse Clip · WBS recommends the use · manufacturers for"
+ ]
+}

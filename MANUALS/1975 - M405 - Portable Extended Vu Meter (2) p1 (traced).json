@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/METER/M405/MANUALS/1975 - M405 - Portable Extended Vu Meter (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0cd8614ed2097c94-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 310.9, 422.1],
+ "outlines": {
+  "line": {"rings": 64, "straight": {"n": 924, "mm": 3766.2}, "curved": {"n": 146, "mm": 237.6}},
+  "text": {"rings": 142, "straight": {"n": 1096, "mm": 1557.0}, "curved": {"n": 217, "mm": 369.2}},
+  "tb": {"rings": 55, "straight": {"n": 688, "mm": 863.9}, "curved": {"n": 161, "mm": 241.5}}
+ },
+ "circles": [{"c": [112.1, 228.7], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [49.7, 396.4, 165.2, 413.7], "text": "[woes] PAOGAIESS"},
+   {"mm": [124.6, 407.2, 285.0, 414.6], "text": "WARD -BECK YSTE MS LTD"},
+   {"mm": [273.3, 401.6, 279.4, 407.3], "text": "ax"},
+   {"mm": [124.6, 395.7, 140.6, 399.8], "text": "Tali,."},
+   {"mm": [144.4, 395.1, 165.4, 400.4], "text": "oe.>."},
+   {"mm": [246.6, 395.1, 284.1, 400.4], "text": "\"l!!UoO.38~"},
+   {"mm": [152.9, 237.9, 192.8, 250.2], "text": "M405"},
+   {"mm": [104.3, 224.5, 226.0, 231.0], "text": "PORT ABLE EXTENDED RANGE"},
+   {"mm": [148.3, 209.4, 189.6, 215.9], "text": "VU METER"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [243.8, 59.8, 277.0, 65.1], "text": "UAL ISSUE"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [281.3, 59.6, 288.0, 65.6], "text": "12"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [117.9, 51.1, 283.7, 423.3],
+  "from": "title-block words (training set)",
+  "text": ["WARD -BECK YSTE MS LTD", "ax", "Tali,.", "oe.>.", "\"l!!UoO.38~", "M405", "PORT ABLE EXTENDED RANGE", "VU METER", "UAL ISSUE", "BS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 0–422 mm up",
+  "- **Outlines:** line 64 rings, 924 straight (3,766 mm) / 146 curved (238 mm); text 142 rings, 1,096 straight (1,557 mm) / 217 curved (369 mm); tb 55 rings, 688 straight (864 mm) / 161 curved (242 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (112.1, 228.7)",
+  "- **Words (OCR):** 25 in 15 lines: [woes] PAOGAIESS · WARD -BECK YSTE MS LTD · ax · Tali,. · oe.>. · \"l!!UoO.38~ · M405 · PORT ABLE EXTENDED RANGE · VU METER · ps · UAL ISSUE · BS",
+  "- **Title block:** (118, 51)–(284, 423) mm: WARD -BECK YSTE MS LTD · ax · Tali,. · oe.>. · \"l!!UoO.38~ · M405 · PORT ABLE EXTENDED RANGE · VU METER · UAL ISSUE · BS"
+ ]
+}

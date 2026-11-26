@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/METER/M405/MANUALS/1975 - M405 - Portable Extended Vu Meter (2).pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/0cd8614ed2097c94-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 335.9, 423.1],
+ "outlines": {
+  "line": {"rings": 243, "straight": {"n": 2343, "mm": 5993.1}, "curved": {"n": 518, "mm": 806.9}},
+  "text": {"rings": 258, "straight": {"n": 1989, "mm": 2153.6}, "curved": {"n": 500, "mm": 765.8}}
+ },
+ "circles": [{"c": [122.3, 325.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 57,
+  "lines": [
+   {"mm": [34.8, 417.1, 52.9, 422.6], "text": "WAR"},
+   {"mm": [75.6, 417.1, 84.8, 422.6], "text": "CI<"},
+   {"mm": [95.0, 417.1, 145.7, 422.6], "text": "YST EM L.TD"},
+   {"mm": [116.2, 361.4, 221.9, 366.5], "text": "M40S EXTENDEO RANGE VU METE"},
+   {"mm": [77.9, 335.7, 119.6, 340.8], "text": "DESCR IP TION"},
+   {"mm": [233.4, 334.0, 293.8, 339.0], "text": "MF PART NUMBER"},
+   {"mm": [77.5, 322.6, 139.5, 327.8], "text": "Po wer Tran sf or mer"},
+   {"mm": [77.9, 309.4, 104.1, 314.7], "text": "Fuse li"},
+   {"mm": [189.8, 308.3, 208.6, 313.6], "text": "ittl fu"},
+   {"mm": [233.4, 308.3, 250.7, 313.6], "text": "357001"},
+   {"mm": [81.8, 300.3, 114.2, 308.2], "text": "all.~ ry C!,i"},
+   {"mm": [185.7, 301.8, 209.2, 307.1], "text": "Duracel"},
+   {"mm": [233.4, 301.8, 245.0, 307.1], "text": "0483"},
+   {"mm": [77.5, 269.4, 114.6, 274.7], "text": "Pow er Cord"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [47.5, 51.4, 91.1, 56.7], "text": "was eeommen"},
+   {"mm": [143.1, 51.4, 174.0, 56.7], "text": "rep laceme"},
+   {"mm": [189.8, 51.4, 222.6, 56.7], "text": "aris made"},
+   {"mm": [239.4, 51.4, 244.0, 56.7], "text": "th"},
+   {"mm": [256.1, 51.4, 281.5, 56.7], "text": "peci fi ed"},
+   {"mm": [47.5, 45.1, 78.8, 50.4], "text": "manuf tu"},
+   {"mm": [98.0, 45.1, 167.1, 50.4], "text": "fo con inued optimu"},
+   {"mm": [194.7, 45.1, 201.7, 50.4], "text": "me"},
+   {"mm": [216.8, 45.1, 236.6, 50.4], "text": "erform"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–423 mm up",
+  "- **Outlines:** line 243 rings, 2,343 straight (5,993 mm) / 518 curved (807 mm); text 258 rings, 1,989 straight (2,154 mm) / 500 curved (766 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (122.3, 325.1)",
+  "- **Words (OCR):** 57 in 27 lines: WAR · CI< · YST EM L.TD · M40S EXTENDEO RANGE VU METE · DESCR IP TION · MF PART NUMBER · Po wer Tran sf or mer · Fuse li · ittl fu · 357001 · all.~ ry C!,i · Duracel"
+ ]
+}

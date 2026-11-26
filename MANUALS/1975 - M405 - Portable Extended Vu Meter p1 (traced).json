@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/METER/M405/MANUALS/1975 - M405 - Portable Extended Vu Meter.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/bd3436235939a5f4-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 310.0, 422.3],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 537, "mm": 3118.9}, "curved": {"n": 64, "mm": 99.5}},
+  "text": {"rings": 170, "straight": {"n": 1877, "mm": 2571.8}, "curved": {"n": 412, "mm": 626.0}},
+  "tb": {"rings": 2, "straight": {"n": 97, "mm": 288.3}, "curved": {"n": 6, "mm": 13.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [57.0, 398.1, 286.5, 413.2], "text": "WBS 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTARIO M1h2xa"},
+   {"mm": [125.4, 406.3, 288.7, 416.4], "text": "WARD-BECK systems LTD_"},
+   {"mm": [124.8, 396.4, 177.3, 402.6], "text": "TeleX 065-25399"},
+   {"mm": [211.8, 396.0, 286.3, 401.2], "text": "TELEPHONE: 418/438-6550"},
+   {"mm": [152.2, 238.6, 194.7, 252.5], "text": "M4o5"},
+   {"mm": [103.0, 224.5, 227.6, 232.7], "text": "PORTABLE EXTENDED RANGE"},
+   {"mm": [147.2, 209.4, 190.9, 217.6], "text": "VU MeteR"},
+   {"mm": [228.6, 59.4, 253.9, 66.3], "text": "MANUAL"},
+   {"mm": [257.4, 57.9, 288.2, 66.5], "text": "LSSUE #2"},
+   {"mm": [228.2, 46.4, 261.7, 52.9], "text": "JUlY 1984"}
+  ]
+ },
+ "title_block": {
+  "mm": [50.2, 389.4, 268.9, 425.1],
+  "from": "title-block words (training set)",
+  "text": ["WBS 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTARIO M1h2xa", "WARD-BECK systems LTD_", "TeleX 065-25399", "TELEPHONE: 418/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–422 mm up",
+  "- **Outlines:** line 32 rings, 537 straight (3,119 mm) / 64 curved (99.5 mm); text 170 rings, 1,877 straight (2,572 mm) / 412 curved (626 mm); tb 2 rings, 97 straight (288 mm) / 6 curved (13.6 mm)",
+  "- **Words (OCR):** 16 in 10 lines: WBS 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTARIO M1h2xa · WARD-BECK systems LTD_ · TeleX 065-25399 · TELEPHONE: 418/438-6550 · M4o5 · PORTABLE EXTENDED RANGE · VU MeteR · MANUAL · LSSUE #2 · JUlY 1984",
+  "- **Title block:** (50, 389)–(269, 425) mm: WBS 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTARIO M1h2xa · WARD-BECK systems LTD_ · TeleX 065-25399 · TELEPHONE: 418/438-6550"
+ ]
+}

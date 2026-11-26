@@ -1,0 +1,100 @@
+{
+ "drawing": "Modules/METER/M405/MECHANICAL/19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/5614116133bb045f.svg",
+ "sheet": {
+  "number": "D 405-03-084",
+  "title": "M405S / BASE",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "D",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [863.6, 559.2],
+  "mm_per_px": 0.4318
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 828.6, 559.2],
+ "outlines": {
+  "line": {"rings": 317, "straight": {"n": 2860, "mm": 17445.5}, "curved": {"n": 461, "mm": 1114.8}},
+  "text": {"rings": 178, "straight": {"n": 1082, "mm": 2145.2}, "curved": {"n": 321, "mm": 800.0}},
+  "tb": {"rings": 19, "straight": {"n": 159, "mm": 367.5}, "curved": {"n": 28, "mm": 67.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2330, "straight": {"n": 2649, "mm": 8938.7}, "curved": {"n": 10, "mm": 17.2}},
+   "text": {"paths": 1191, "straight": {"n": 1494, "mm": 1563.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 290, "straight": {"n": 331, "mm": 819.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 87,
+  "orientation": {"horizontal": {"n": 1140, "mm": 5282.6}, "vertical": {"n": 1193, "mm": 2983.2}, "diagonal": {"n": 2141, "mm": 3056.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [735.7, 21.7], "r": 2.3, "kind": "arc", "span": 219, "from": ["centre line"], "start": 97},
+  {"c": [94.7, 506.9], "r": 1.6, "kind": "arc", "span": 147, "from": ["centre line"], "start": 344},
+  {"c": [685.0, 26.5], "r": 1.5, "kind": "arc", "span": 189, "from": ["centre line"], "start": 320}
+ ],
+ "boxes": [
+  {"mm": [160.6, 516.0, 162.8, 519.5], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [86.4, 504.8, 88.5, 508.2], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [210.7, 349.7, 212.9, 352.8], "w": 2.2, "h": 3.1, "from": "ring"},
+  {"mm": [215.5, 349.4, 219.8, 352.8], "w": 4.3, "h": 3.3, "from": "ring"},
+  {"mm": [527.0, 343.7, 529.4, 346.7], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [689.2, 326.4, 691.3, 329.9], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [424.5, 310.9, 426.7, 314.4], "w": 2.3, "h": 3.5, "from": "ring"},
+  {"mm": [612.3, 298.8, 614.6, 301.8], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [377.0, 130.0, 705.1, 285.0], "w": 328.2, "h": 155.0, "from": "ring"},
+  {"mm": [713.8, 79.6, 715.9, 82.9], "w": 2.2, "h": 3.3, "from": "ring"},
+  {"mm": [818.3, 71.7, 828.2, 77.3], "w": 9.9, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [177.9, 70.3, 180.5, 73.4], "w": 2.6, "h": 3.1, "from": "ring"},
+  {"mm": [677.9, 53.5, 827.8, 72.1], "w": 149.8, "h": 18.6, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [677.9, 48.4, 712.9, 54.0], "w": 35.0, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [713.3, 28.1, 827.8, 54.0], "w": 114.4, "h": 25.9, "from": "ring", "words": ["M405s", "BASE"]},
+  {"mm": [103.6, 50.1, 108.4, 53.1], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [120.5, 49.7, 122.6, 53.1], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [140.3, 49.5, 145.1, 52.7], "w": 4.7, "h": 3.1, "from": "ring"},
+  {"mm": [677.9, 41.9, 712.9, 47.9], "w": 35.0, "h": 6.0, "from": "ring"},
+  {"mm": [677.9, 16.4, 695.6, 28.5], "w": 17.7, "h": 12.1, "from": "ring"},
+  {"mm": [696.1, 22.9, 731.0, 28.5], "w": 35.0, "h": 5.6, "from": "ring"},
+  {"mm": [742.3, 15.5, 811.8, 28.1], "w": 69.5, "h": 12.5, "from": "ring", "words": ["405-03-084"]},
+  {"mm": [812.2, 15.5, 827.3, 27.6], "w": 15.1, "h": 12.1, "from": "ring"},
+  {"mm": [696.9, 23.7, 699.2, 26.8], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [735.4, 19.4, 737.5, 23.3], "w": 2.2, "h": 3.9, "from": "ring"},
+  {"mm": [696.1, 16.4, 731.0, 22.5], "w": 35.0, "h": 6.0, "from": "ring", "words": ["code;", "40548'"]}
+ ],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [140.3, 502.2, 152.0, 506.5], "text": "0,771"},
+   {"mm": [520.3, 310.0, 532.0, 314.4], "text": "1850"},
+   {"mm": [630.0, 296.2, 643.8, 302.9], "text": "REQ"},
+   {"mm": [354.1, 234.0, 366.2, 238.4], "text": "0,787"},
+   {"mm": [65.2, 94.6, 159.3, 103.1], "text": "MATERIAL: CRS: 0.105 ThICK,"},
+   {"mm": [66.5, 81.6, 173.2, 90.2], "text": "FINISH: SAND 120 GriT AND PAINT"},
+   {"mm": [90.2, 75.1, 168.0, 82.8], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [90.2, 68.7, 137.7, 76.3], "text": "TEXCOTE VNY"},
+   {"mm": [688.3, 58.7, 720.7, 66.4], "text": "WBS"},
+   {"mm": [734.5, 57.9, 822.1, 68.4], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [72.5, 49.7, 97.2, 54.0], "text": "TOLER 'LES"},
+   {"mm": [97.6, 52.2, 121.3, 59.0], "text": "BUkAS AND"},
+   {"mm": [761.7, 40.6, 786.3, 49.2], "text": "M405s"},
+   {"mm": [763.9, 32.0, 783.3, 40.6], "text": "BASE"},
+   {"mm": [696.1, 17.3, 726.7, 21.6], "text": "code; 40548'"},
+   {"mm": [753.9, 16.8, 801.4, 25.5], "text": "405-03-084"}
+  ]
+ },
+ "title_block": {"mm": [670.9, 46.6, 839.3, 79.7], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical D 405-03-084, size D 864 × 559 mm, 2000 × 1295 px traced (0.432 mm/px)",
+  "- **Ink extent:** 0–829 mm across, 0–559 mm up",
+  "- **Outlines:** line 317 rings, 2,860 straight (17,446 mm) / 461 curved (1,115 mm); text 178 rings, 1,082 straight (2,145 mm) / 321 curved (800 mm); tb 19 rings, 159 straight (368 mm) / 28 curved (67.2 mm)",
+  "- **Centre lines:** 3,811 paths (87 closed); straight 11,322 mm, curved 17.2 mm; horizontal 5,283 mm, vertical 2,983 mm, diagonal 3,056 mm",
+  "- **Circles and arcs:** 0 circles, 3 arcs",
+  "- **Closed boxes:** 26 (3 in the title block); named: M405s BASE; 405-03-084; code; 40548'",
+  "- **Words (OCR):** 22 in 16 lines: 0,771 · 1850 · REQ · 0,787 · MATERIAL: CRS: 0.105 ThICK, · FINISH: SAND 120 GriT AND PAINT · TEXTURED BROWN (438C) · TEXCOTE VNY · WBS · WARD-BECK SYSTEMS · TOLER 'LES · BUkAS AND",
+  "- **Title block:** (671, 47)–(839, 80) mm: WBS · WARD-BECK SYSTEMS"
+ ]
+}

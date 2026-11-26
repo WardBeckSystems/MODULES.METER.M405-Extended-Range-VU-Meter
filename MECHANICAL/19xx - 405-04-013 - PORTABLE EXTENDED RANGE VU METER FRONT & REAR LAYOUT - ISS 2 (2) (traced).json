@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/METER/M405/MECHANICAL/19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2).jpg",
+ "version": 1,
+ "trace": "_traces/1c6f5cb4adf1b2a3.svg",
+ "sheet": {
+  "number": "B 405-04-013",
+  "title": "PORTABLE EXTENDED RANGE VU METER / FRONT &amp; REAR LAYOUT",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.3, 0.0, 429.6, 287.1],
+ "outlines": {
+  "line": {"rings": 378, "straight": {"n": 3745, "mm": 7453.1}, "curved": {"n": 771, "mm": 1594.4}},
+  "text": {"rings": 121, "straight": {"n": 893, "mm": 913.1}, "curved": {"n": 238, "mm": 310.5}}
+ },
+ "circles": [
+  {"c": [299.7, 143.1], "r": 9.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 4.5},
+  {"c": [272.1, 143.0], "r": 6.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [311.9, 105.4], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [140.3, 62.5], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [223.5, 154.3], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [223.2, 132.2], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [223.5, 108.3], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [233.1, 76.9], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [272.2, 61.1], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [225.3, 90.4], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [224.6, 184.4], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [299.0, 60.2], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [346.0, 132.5], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [295.3, 105.5], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [272.2, 158.9], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [285.3, 105.7], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [295.3, 105.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [311.8, 105.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [289.6, 170.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [275.6, 105.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [369.3, 17.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [134.7, 126.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [155.6, 126.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [272.3, 159.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [145.1, 135.6], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [260.2, 178.5, 319.5, 203.2], "w": 59.4, "h": 24.6, "from": "ring"},
+  {"mm": [262.1, 180.3, 317.4, 201.2], "w": 55.3, "h": 20.9, "from": "ring"},
+  {"mm": [259.7, 165.8, 319.1, 178.5], "w": 59.4, "h": 12.7, "from": "ring"},
+  {"mm": [310.0, 98.0, 313.1, 100.2], "w": 3.0, "h": 2.2, "from": "ring"},
+  {"mm": [305.3, 92.8, 311.8, 95.6], "w": 6.5, "h": 2.8, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [265.7, 105.7], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout B 405-04-013, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 6–430 mm across, 0–287 mm up",
+  "- **Outlines:** line 378 rings, 3,745 straight (7,453 mm) / 771 curved (1,594 mm); text 121 rings, 893 straight (913 mm) / 238 curved (310 mm)",
+  "- **Circles and arcs:** 25 circles, 0 arcs; largest r 9.1 @ (299.7, 143.1), r 6.3 @ (272.1, 143.0), r 3.5 @ (311.9, 105.4), r 3.3 @ (140.3, 62.5)",
+  "- **Closed boxes:** 5",
+  "- **Dots (junctions):** 1"
+ ]
+}

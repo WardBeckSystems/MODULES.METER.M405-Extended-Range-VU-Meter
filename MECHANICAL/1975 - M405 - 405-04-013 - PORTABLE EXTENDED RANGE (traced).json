@@ -1,0 +1,100 @@
+{
+ "drawing": "Modules/METER/M405/MECHANICAL/1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE.jpg",
+ "version": 1,
+ "trace": "_traces/6d61c111486c9461.svg",
+ "sheet": {
+  "number": "405-04-013",
+  "title": "Portable Extended Range",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1924, 1748],
+  "mm": [431.8, 392.3],
+  "mm_per_px": 0.22443
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 6.7, 426.0, 382.2],
+ "outlines": {
+  "line": {"rings": 252, "straight": {"n": 3575, "mm": 10593.0}, "curved": {"n": 688, "mm": 1612.1}},
+  "text": {"rings": 232, "straight": {"n": 2022, "mm": 2496.9}, "curved": {"n": 584, "mm": 904.9}},
+  "tb": {"rings": 35, "straight": {"n": 477, "mm": 1054.0}, "curved": {"n": 72, "mm": 209.4}}
+ },
+ "circles": [
+  {"c": [143.2, 236.7], "r": 15.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 7.7},
+  {"c": [95.5, 236.4], "r": 10.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [102.5, 171.3], "r": 6.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [97.5, 94.0], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [223.0, 219.6], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [29.9, 120.1], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [11.7, 216.4], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [16.5, 143.6], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [12.3, 307.0], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [12.9, 174.8], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [11.6, 254.7], "r": 5.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [136.4, 171.4], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.2},
+  {"c": [95.3, 263.5], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [136.3, 171.5], "r": 3.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [124.8, 284.2], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [102.3, 171.5], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.3},
+  {"c": [119.0, 171.5], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.3},
+  {"c": [378.5, 207.4], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [95.4, 263.7], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [342.3, 207.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [360.3, 224.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [85.4, 171.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [72.9, 297.6, 175.3, 340.7], "w": 102.3, "h": 43.1, "from": "ring", "words": ["484481&", "Ju"]},
+  {"mm": [76.5, 301.0, 171.5, 337.3], "w": 95.0, "h": 36.4, "from": "ring", "words": ["484481&", "Ju"]},
+  {"mm": [73.6, 275.4, 175.5, 297.8], "w": 101.9, "h": 22.4, "from": "ring"},
+  {"mm": [359.1, 203.1, 361.6, 207.1], "w": 2.5, "h": 4.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [86.0, 309.5, 148.3, 340.9], "text": "484481&"},
+   {"mm": [92.9, 326.5, 100.5, 333.0], "text": "Ju"},
+   {"mm": [100.1, 261.0, 117.4, 266.5], "text": "CHARGE"},
+   {"mm": [92.7, 248.7, 112.2, 256.0], "text": "ON TEST"},
+   {"mm": [80.3, 248.7, 90.7, 255.2], "text": "Off"},
+   {"mm": [112.9, 241.3, 119.8, 247.7], "text": "20"},
+   {"mm": [168.1, 242.6, 173.9, 246.8], "text": "20"},
+   {"mm": [217.2, 214.6, 228.7, 224.3], "text": "10"},
+   {"mm": [97.4, 205.4, 106.6, 210.8], "text": "20k"},
+   {"mm": [127.7, 210.7, 133.8, 214.5], "text": "40"},
+   {"mm": [146.1, 206.9, 152.6, 211.2], "text": "50"},
+   {"mm": [81.7, 205.4, 89.8, 210.3], "text": "150"},
+   {"mm": [143.4, 194.6, 157.5, 198.3], "text": "WBS"},
+   {"mm": [80.8, 190.8, 123.9, 196.3], "text": "600 MATCH OUT"},
+   {"mm": [143.4, 187.6, 156.4, 193.1], "text": "M4os"},
+   {"mm": [84.4, 182.5, 165.2, 191.3], "text": "METER Z FILTER EXT RANGE VU"},
+   {"mm": [88.2, 157.8, 100.5, 162.8], "text": "INPUT"},
+   {"mm": [129.3, 157.8, 142.7, 163.3], "text": "INPUT"},
+   {"mm": [157.8, 158.4, 170.1, 163.9], "text": "HDST"},
+   {"mm": [291.5, 54.5, 417.2, 62.8], "text": "WBS WAAD-BECK ByBTEMB"},
+   {"mm": [341.1, 36.6, 363.8, 44.8], "text": "M4os"},
+   {"mm": [284.8, 27.2, 427.5, 37.1], "text": "PORTABLE EXTENDED RANGE VU METER"},
+   {"mm": [310.4, 18.9, 395.0, 27.1], "text": "FRONT & REAR LAYOUT"},
+   {"mm": [293.1, 5.8, 338.9, 13.3], "text": "405-04-013"},
+   {"mm": [396.8, 5.8, 417.2, 13.3], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {
+  "mm": [134.7, 46.6, 425.8, 206.2],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M4os", "INPUT", "HDST", "WBS WAAD-BECK ByBTEMB"]
+ },
+ "dots": [{"c": [131.7, 256.2], "r": 0.9, "lines": 0}, {"c": [166.1, 238.0], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 405-04-013, size B (assumed) 432 × 392 mm, 1924 × 1748 px traced (0.224 mm/px)",
+  "- **Ink extent:** 5–426 mm across, 7–382 mm up",
+  "- **Outlines:** line 252 rings, 3,575 straight (10,593 mm) / 688 curved (1,612 mm); text 232 rings, 2,022 straight (2,497 mm) / 584 curved (905 mm); tb 35 rings, 477 straight (1,054 mm) / 72 curved (209 mm)",
+  "- **Circles and arcs:** 22 circles, 0 arcs; largest r 15.7 @ (143.2, 236.7), r 10.6 @ (95.5, 236.4), r 6.8 @ (102.5, 171.3), r 5.6 @ (97.5, 94.0)",
+  "- **Closed boxes:** 4; named: 484481& Ju; 484481& Ju",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 31 in 25 lines: 484481& · Ju · CHARGE · ON TEST · Off · 20 · 20 · 10 · 20k · 40 · 50 · 150",
+  "- **Title block:** (135, 47)–(426, 206) mm: WBS · M4os · INPUT · HDST · WBS WAAD-BECK ByBTEMB"
+ ]
+}

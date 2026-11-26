@@ -1,0 +1,97 @@
+{
+ "drawing": "Modules/METER/M405/MECHANICAL/1968 - 405-03-003 - COVER - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/d0ed3d0ba9f1c708.svg",
+ "sheet": {
+  "number": "B 405-03-003",
+  "title": "COVER",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.8, 431.9, 299.0],
+ "outlines": {
+  "line": {"rings": 316, "straight": {"n": 5024, "mm": 9417.9}, "curved": {"n": 694, "mm": 894.5}},
+  "text": {"rings": 163, "straight": {"n": 1335, "mm": 1446.6}, "curved": {"n": 350, "mm": 494.8}},
+  "tb": {"rings": 19, "straight": {"n": 194, "mm": 228.5}, "curved": {"n": 18, "mm": 25.0}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 6331, "straight": {"n": 6484, "mm": 5643.4}, "curved": {"n": 37, "mm": 34.1}},
+   "text": {"paths": 1148, "straight": {"n": 1503, "mm": 1154.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 126, "straight": {"n": 132, "mm": 447.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 30,
+  "orientation": {"horizontal": {"n": 2217, "mm": 3358.0}, "vertical": {"n": 2074, "mm": 1901.9}, "diagonal": {"n": 3828, "mm": 1985.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [209.4, 12.8], "r": 1.5, "kind": "arc", "span": 143, "from": ["centre line"], "start": 4},
+  {"c": [119.3, 149.9], "r": 1.4, "kind": "arc", "span": 112, "from": ["centre line"], "start": 15},
+  {"c": [70.6, 120.9], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 279},
+  {"c": [71.4, 120.9], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 10},
+  {"c": [307.9, 12.2], "r": 1.1, "kind": "arc", "span": 157, "from": ["centre line"], "start": 213},
+  {"c": [278.8, 12.1], "r": 1.1, "kind": "arc", "span": 142, "from": ["centre line"], "start": 238},
+  {"c": [49.9, 164.2], "r": 1.0, "kind": "arc", "span": 179, "from": ["centre line"], "start": 310},
+  {"c": [270.6, 12.2], "r": 0.9, "kind": "arc", "span": 168, "from": ["centre line"], "start": 219},
+  {"c": [205.1, 12.2], "r": 0.9, "kind": "arc", "span": 216, "from": ["centre line"], "start": 198},
+  {"c": [302.2, 12.3], "r": 0.9, "kind": "arc", "span": 186, "from": ["centre line"], "start": 197},
+  {"c": [273.2, 12.2], "r": 0.9, "kind": "arc", "span": 210, "from": ["centre line"], "start": 307},
+  {"c": [332.1, 102.1], "r": 0.8, "kind": "arc", "span": 250, "from": ["centre line"], "start": 126}
+ ],
+ "boxes": [
+  {"mm": [67.1, 183.5, 71.0, 225.2], "w": 3.9, "h": 41.7, "from": "ring"},
+  {"mm": [67.1, 178.1, 71.0, 183.1], "w": 3.9, "h": 5.0, "from": "ring"},
+  {"mm": [67.1, 166.9, 71.0, 177.7], "w": 3.9, "h": 10.8, "from": "ring"},
+  {"mm": [112.7, 155.4, 119.2, 177.5], "w": 6.5, "h": 22.0, "from": "ring"},
+  {"mm": [119.4, 155.3, 125.4, 177.5], "w": 6.0, "h": 22.2, "from": "ring"},
+  {"mm": [67.1, 155.4, 71.0, 166.7], "w": 3.9, "h": 11.2, "from": "ring"},
+  {"mm": [67.1, 150.7, 71.0, 155.3], "w": 3.9, "h": 4.6, "from": "ring"},
+  {"mm": [185.7, 41.9, 198.9, 51.0], "w": 13.2, "h": 9.1, "from": "ring", "words": ["DRN"], "in_title_block": true},
+  {"mm": [258.0, 11.0, 261.7, 13.2], "w": 3.7, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [173.8, 257.8, 181.4, 266.9], "text": "83"},
+   {"mm": [172.3, 249.8, 184.2, 256.3], "text": "8.062"},
+   {"mm": [19.9, 162.8, 46.4, 170.2], "text": "350 1250"},
+   {"mm": [303.1, 100.0, 347.8, 109.8], "text": "5,32 PiA REQ."},
+   {"mm": [186.5, 43.2, 233.4, 48.7], "text": "DRN C,S OCONNELL"},
+   {"mm": [237.7, 46.0, 253.5, 51.5], "text": "FINISH"},
+   {"mm": [318.2, 41.0, 410.2, 51.3], "text": "WARD BECK SYSTEMS Ltd;"},
+   {"mm": [185.7, 33.7, 228.6, 40.2], "text": "DATE TUNE 68"},
+   {"mm": [242.0, 34.5, 311.1, 40.1], "text": "240 GRIT + CLEAC ANODIZ E"},
+   {"mm": [238.4, 27.6, 260.4, 33.2], "text": "MATERIAL"},
+   {"mm": [343.3, 23.5, 369.6, 32.2], "text": "COVER"},
+   {"mm": [185.9, 24.4, 215.0, 30.3], "text": "CHKD K n"},
+   {"mm": [257.1, 20.5, 288.4, 25.3], "text": "064 ALUM"},
+   {"mm": [185.5, 15.8, 198.8, 21.3], "text": "SCAIE"},
+   {"mm": [334.2, 5.6, 349.3, 12.1], "text": "4.05"},
+   {"mm": [350.4, 6.0, 364.2, 12.5], "text": "~03"},
+   {"mm": [369.4, 7.1, 382.4, 12.6], "text": "002"}
+  ]
+ },
+ "title_block": {
+  "mm": [177.0, 27.6, 402.4, 57.4],
+  "from": "title-block words (training set)",
+  "text": ["DRN C,S OCONNELL", "FINISH", "WARD BECK SYSTEMS Ltd;", "DATE TUNE 68", "240 GRIT + CLEAC ANODIZ E", "MATERIAL", "COVER", "CHKD K n"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 405-03-003, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 11–299 mm up",
+  "- **Outlines:** line 316 rings, 5,024 straight (9,418 mm) / 694 curved (894 mm); text 163 rings, 1,335 straight (1,447 mm) / 350 curved (495 mm); tb 19 rings, 194 straight (228 mm) / 18 curved (25.0 mm)",
+  "- **Centre lines:** 7,605 paths (30 closed); straight 7,246 mm, curved 34.1 mm; horizontal 3,358 mm, vertical 1,902 mm, diagonal 1,986 mm",
+  "- **Circles and arcs:** 0 circles, 12 arcs",
+  "- **Closed boxes:** 9 (1 in the title block)",
+  "- **Words (OCR):** 28 in 17 lines: 83 · 8.062 · 350 1250 · 5,32 PiA REQ. · DRN C,S OCONNELL · FINISH · WARD BECK SYSTEMS Ltd; · DATE TUNE 68 · 240 GRIT + CLEAC ANODIZ E · MATERIAL · COVER · CHKD K n",
+  "- **Title block:** (177, 28)–(402, 57) mm: DRN C,S OCONNELL · FINISH · WARD BECK SYSTEMS Ltd; · DATE TUNE 68 · 240 GRIT + CLEAC ANODIZ E · MATERIAL · COVER · CHKD K n"
+ ]
+}

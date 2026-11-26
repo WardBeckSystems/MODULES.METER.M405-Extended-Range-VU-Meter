@@ -1,0 +1,76 @@
+{
+ "drawing": "Modules/METER/M405/MANUALS/1975 - M405 - Portable Extended Vu Meter (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/0cd8614ed2097c94-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 312.6, 422.6],
+ "outlines": {
+  "line": {"rings": 313, "straight": {"n": 2908, "mm": 6365.3}, "curved": {"n": 749, "mm": 1149.3}},
+  "text": {"rings": 340, "straight": {"n": 2475, "mm": 2735.0}, "curved": {"n": 761, "mm": 1147.6}}
+ },
+ "circles": [
+  {"c": [99.9, 192.7], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [189.6, 193.1], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [182.1, 166.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [74.5, 409.6, 79.0, 414.3], "w": 4.5, "h": 4.7, "from": "ring"}],
+ "text": {
+  "words": 86,
+  "lines": [
+   {"mm": [40.4, 408.7, 58.3, 414.2], "text": "WAR"},
+   {"mm": [81.0, 408.7, 91.8, 414.2], "text": "CK"},
+   {"mm": [105.6, 408.7, 128.2, 414.2], "text": "STEM"},
+   {"mm": [138.0, 408.7, 152.0, 414.7], "text": "LTD"},
+   {"mm": [142.7, 367.2, 206.6, 372.5], "text": "OC Voc. TAGE CHART"},
+   {"mm": [100.8, 353.9, 246.3, 359.1], "text": "\"\"405 ORTABLE EXTE NDEO RANGE VU \"\"ETER"},
+   {"mm": [105.1, 176.4, 165.2, 181.7], "text": "Ka si nal ap plied"},
+   {"mm": [105.1, 163.4, 130.8, 168.7], "text": "Unit tur-"},
+   {"mm": [147.5, 163.4, 153.3, 168.7], "text": "on"},
+   {"mm": [164.1, 163.4, 182.7, 168.7], "text": "il l'l no"},
+   {"mm": [199.5, 163.4, 265.6, 168.7], "text": "pow er app ie when"},
+   {"mm": [104.9, 156.7, 248.5, 162.0], "text": "me sur ng Cl to C7 AC ow er appl ie an"},
+   {"mm": [108.4, 149.8, 164.9, 155.1], "text": "l'larger OPera lng"},
+   {"mm": [174.4, 149.8, 211.8, 155.1], "text": "l'Ien me tlsur"},
+   {"mm": [226.7, 149.8, 234.9, 155.1], "text": "C8."},
+   {"mm": [105.1, 136.9, 124.8, 142.2], "text": "Bti ll er"},
+   {"mm": [161.1, 136.9, 193.9, 142.2], "text": "22.5 va lS"},
+   {"mm": [94.6, 123.7, 247.4, 129.0], "text": "BAT TERY CURRENT DRAIN lno si na applied)"},
+   {"mm": [259.1, 123.7, 277.4, 129.0], "text": "25 mA"},
+   {"mm": [94.1, 110.8, 108.2, 116.0], "text": "Ka le:"},
+   {"mm": [121.1, 110.8, 133.6, 116.0], "text": "Will'l"},
+   {"mm": [148.1, 110.8, 169.9, 116.0], "text": "harger"},
+   {"mm": [179.6, 110.8, 210.7, 116.0], "text": "operat ing"},
+   {"mm": [225.2, 110.8, 233.6, 116.0], "text": "all"},
+   {"mm": [100.8, 104.1, 218.5, 109.3], "text": "versed and sl'lou ld me asure 7.8 rnA"},
+   {"mm": [237.1, 104.1, 245.9, 109.3], "text": "QS."},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [138.8, 316.5], "r": 0.7, "lines": 0}, {"c": [217.8, 277.4], "r": 0.7, "lines": 0}, {"c": [182.0, 264.1], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–313 mm across, 0–423 mm up",
+  "- **Outlines:** line 313 rings, 2,908 straight (6,365 mm) / 749 curved (1,149 mm); text 340 rings, 2,475 straight (2,735 mm) / 761 curved (1,148 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (99.9, 192.7), r 2.1 @ (189.6, 193.1), r 1.6 @ (182.1, 166.0)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 86 in 30 lines: WAR · CK · STEM · LTD · OC Voc. TAGE CHART · \"\"405 ORTABLE EXTE NDEO RANGE VU \"\"ETER · Ka si nal ap plied · Unit tur- · on · il l'l no · pow er app ie when · me sur ng Cl to C7 AC ow er appl ie an"
+ ]
+}
