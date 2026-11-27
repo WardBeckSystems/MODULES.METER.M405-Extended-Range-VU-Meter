@@ -180,6 +180,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1968 - 405-03-003 - COVER - ISS 1.jpg`, `1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2.jpg`, `1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1.jpg`, `1975 - 405-03-023 - TRIM STRIP M405C - DRN G. Young - ISS 3.jpg`, `1975 - 405-03-027 - SPACER M405C - DRN G. Young - ISS 3.jpg`, `1975 - 405-04-006 - M405C EXT. RANGE VU COMPONENT LAYOUT - DRN REB - ISS 2.jpg`, `1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3.jpg`, `1982 - 405-03-035 - ATTENUATOR MOUNTING PLATE - DRN DRG - ISS 2.jpg`, `1984 - 405-03-049 - MOUNTING PLATE FOR ATTENUATOR USED ON M405D - DRN J - ENG MRW - ISS 2.jpg`, `1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1.jpg`, `1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1.jpg`, `1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG.jpg`, `1995 - 405-03-082 - M405M PCB CONNECTOR BRACKET - DRN DRG - ISS 1.jpg`, `19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2.jpg`, `19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2).jpg`, `19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M405.stl`](MECHANICAL/M405.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M405)
+
+- **Size:** 125 × 225 mm panel, 125 mm deep, 3.2 mm plate (TECHNICAL DATA: 5.00" wide 9.00" high 5.00" deep (125mm 225mm 125mm))
+- **From the drawing:** 13 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M405 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M405.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
