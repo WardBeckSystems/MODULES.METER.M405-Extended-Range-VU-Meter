@@ -1,0 +1,178 @@
+{
+ "module": "M405",
+ "title": "M405 PORTABLE EXTENDED RANGE vu METER",
+ "source": {
+  "file": "MANUALS/1975 - M405 - 005.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.25 dB from 20 Hz to 20 kHz. -30 dB down at 60 Hz with filter in.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": -30,
+     "unit": "dB"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Signal to noise ratio better than 50 dB measured from vU meter reading",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 1% from 20 Hz to 20 kHz (measured with any specified input level and at vu output level)",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "150/600 ohms",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Selectable, 150/600/20K ohms +/-59, unbalanced, floating above ground"
+  },
+  {
+   "name": "Attenuator Tracking",
+   "key": "attenuator_tracking",
+   "text": "+/-0.25 dB per step (non cumulative)",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Meter ballistics",
+   "key": "meter_ballistics",
+   "text": "Complies with ASA vu meter standards."
+  },
+  {
+   "name": "Headset output",
+   "key": "headset_output",
+   "text": "dBm (approx) 600 ohms",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "Self-contained re-chargeable batteries. Line cord supplied to operate from 115V ac and to re-charge cells.",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "V ac"
+    }
+   ]
+  },
+  {
+   "name": "Battery life",
+   "key": "battery_life",
+   "text": "More than 40 hrs continuous use. Typically 30 days at hrs. per day intermittent use."
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "5.00\" wide 9.00\" high 5.00\" deep (125mm 225mm 125mm)",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "\""
+    },
+    {
+     "value": 9,
+     "unit": "\""
+    },
+    {
+     "value": 5,
+     "unit": "\""
+    },
+    {
+     "value": 125,
+     "unit": "mm"
+    },
+    {
+     "value": 225,
+     "unit": "mm"
+    },
+    {
+     "value": 125,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "Ibs. (3 kg) net.",
+   "quantities": [
+    {
+     "value": 3,
+     "unit": "kg"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1975 - M405 - 005 (2).jpg",
+   "page": 1
+  }
+ ]
+}

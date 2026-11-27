@@ -1,0 +1,97 @@
+{
+ "module": "M405",
+ "source": {
+  "file": "MANUALS/1975 - M405 - Portable Extended Vu Meter (2).pdf",
+  "pages": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "ocr_quality": 0.83,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The signal input tot he M4 0 5 Extended Range VU Meter may b \" via binding post t\"rm ina ls J2 and J3 or t\" lephon e jack J1. An input via Jl autom\"tic\" lly disconnects the binding post input circuit which i s connected tot h e norm,, 1 springs oft h e j \"ck.",
+    "The input amplifier c onf i g u ration i s unbalanced but float ing with respect to chassis ground and can, therefore, be utilize din conjunction with balanced audio lines wit houl introducing disturb a n ce s.",
+    "Matching / bridging switch SW1, determines th\" load presented by the ins tr u men t to the s ou r<;\" (matc hing or 20K ohm br idgingl. Meter imp e dance switch SW2 compensates the input o f the instrument to present the p r-ope rline termination and si mu l t a neo us l y IIdj u s t s the in St r u men t voltage gain to produce the correct meter i n di cation for ISO or 6 00 ohm line mells uremen t s.",
+    "Coupling cllp a c ito r s Clan d C2 prevent dc voltages, which maybe present on aline, from interfering with the instrument circuitry. The sign lll i sap p l i\"d to the i n st r u me nt amplifier via cal ib ra t\" d 2 dB / step rotary att enua tor R3, resistor R4 and coupling c lIPllc itor C 3. The Cllli brllted II tt e n ua tor accommodates lin 60 dB range and allows the M405 to measure input levels from _50 dBm t o ' 30 dBm fora 0 Vu meter reading.",
+    "Clipping diodes CRt and CR2 inc o n junction with R4 limit the signal input amp lit u d e tot h e amplifier and meter circuitS. 01 FET lind 0 2 P NP transistor form avery high imp e dance complementary p r e_ am pli_ fie r. Hence, the calibrated poten tiomete r, R 3 operates unloaded. The preamplifier gain is determined by the ratio o f resistor networks R9 to RIO and RII or R9 to R12 and R I 3 depending on these lec t ion of imp e dll n c e switch SW2. This produces a simultaneous 6 dB gain ~ci~u~~::~t when the matching input imp e dan c\" iss \" l\"cted to ISO or",
+    "T h \" p reamplif ier output is via capacitor C5. The output amplifier comprises trans i s tors 0 3 t h rough 07. The circuit i san operational IIm p lif ie r fun c t ion ing in the inverting mode and with feed back resistors R1 4 and R 22 determining the gain. Filter switch SW3 inserts",
+    "a parallel T-t yp \" filter, comprising resistors R15 through R2 1 and",
+    "cllpac itor s C6 through C9. The filter produces a sharp 60 Hz notch",
+    "with great e r than 30 d Bat tenua t ion. Locating the f i l t e rcompon ent s",
+    "within the feed back loop produces high - O response characteristic s with 3 d B points a t SO and 70 Hz."
+   ]
+  },
+  {
+   "heading": "CIRCUIT OESCRIPT ION",
+   "paragraphs": [
+    "M40 5 PORT ABLE EXTENOED RANGE VU METER",
+    "OUlput coupling capacitor C I Icon nect s lhe signal to the VU meter via s wi lc h SW4. Re l is lor RJ 3 provides Ih e required,.OUf\"'Ce driving impedance, while R34 and CI3 introduces high frequency compensation t o re\" tore meIer rK tHier res ees. Zen er diode,. eR 9 and CR 10 offer pro tK t ion Ilga ins t meter overdrive. Headset jack J5 delivers Ilppro><_ im e tely 0 d 8 m to a 600 ohm load when meter MI Indicates 0 VU.",
+    "Primary aC power Is IlPp lied 10 the ins t r u men t via the Ih ree positions witch SW4. This multi -deck functions witch d;\" connects lind IIPpli e s de power from the b a uery complement to Ih e IIc t ive meter Ci f\"'C u i l ry.",
+    "When selected tot h e BATTERY TEST position, SW4 Ilpplie sales t load tot h e battery ci f\"'C u l t and provides avis u a l indicll i ion o f the bat le ry condi lion Ire fer 10 Operations ec lion l.",
+    "Transformer Tl, tr ll n s i\" tor 08 and associate d ci r c u il ry comprise a cons t\" n t current c h\"rger. With SW4 selected to the ON position IlC i l \"ppli e d toT land a de voltage is produced via rectifiers CR?, CR8 and filter c ll pac i tor Clio. Trans isl o r 0 8 delivers \" con,. tan l 8 rnA emi lter current via iSOlating diode CRS 10 charge then ickel cadmium e eus • Wh.,., I h e charging process occurs, neon indicator 051 i llum_ in ates to provide a visual indication oft h e charging mode.",
+    "WAR CBECK B Y BTEMS L T C."
+   ]
+  },
+  {
+   "heading": "OPERATIONAL OESC R IPT ION",
+   "paragraphs": [
+    "(Ref e.. 10 F r-onl (, Re a.. Layou l B4 05 -00l0 -00I)",
+    "arCh a \" ge Indicator i\" lit du.. ing b atl e.. y charging.",
+    "JI OFF / ON/ TEST swi l c h (S W4) a c ti v a t\" \" t h \" instrument in Ih e \"ON\" position by applying power fr'Om e i l her Ih ein tern alb atle r y pack or from the AC line.",
+    "Ina d d i lion Ih e batl e r y condition i \" mea su...e din Ih e \"TEST\" position. Sufficient ch....g e 15 indicated b y • needle def lec lion into the...e d c olou....,d..egi on of lhe VU mete.. see te (0 10 '3).",
+    "'J 150/600 Iln(le danceS... ilC h f SW2) compen 5lll e 5 Ih e meIer ind iC. I _ ion for vol l age p..e sen l all he inpu l le nn ina l.. w hoe<> l he in.. I\"' u menl '5 connected 10 read aCross a 150 or 600 otvn circuli. For e\"amp le, • 0 VU level would normally read 6 dB lo w\" r when Ih ein.. lrumenl...a.. connlPC led 10 a signal developed aCross • 150 ohm l \"'a n 5m l 55 ion line I han it i l...a s connec led aCross a 600 ohm line. By select ing SW2 10 Ih e known Iran s m ls s ion line impedance a dire<;1 scale reading maybe obtain e d without Ih e n.... d for co.. rec lion ' a CIOr S.",
+    "\" 20K / MATCH.. witch (S W1) selects abridging Or matching input a l Ih eIn put le rmin <l15 oft h e M4 0 5. The b.. i d gin gmo de is for use... i l h terminated trans mission lines and wherein l rod u c t ion o f I h e meter tot hes ys te m is..e quire d not 10 load the circuit. The matching mode, s for uSe when Ih e sending line is unloaded and, Ih.....e fo..e,..e quires a l erminalion top rod u c e teed e signed 5 y5 1..... level.",
+    "' J FILTER \".. itch (S W)), n serl S II 60 Hz n........... band rej e<;ti on notch wIthin theme ter amplifier 10 minimize Ih e (Off ec l s o f hump..e 'Senl... l l h l he sl g n.1 10 be measured. T h u 'S, Ih e pos sib i lily o fer ror due 10 the presence of a 60 hz hum c omp on enl In l h e ci<'Cuil Is e limat ed.",
+    "7l INPUT bind ing po.5t lenn ina ls. A.. ignal sco ec e may either be",
+    "connecled 10 these l...-m i n ll is 0.. 10 Ih e le lephone I y pe input",
+    "jack (see 8).",
+    "WAR O - BECK B YSTEMS LT O."
+   ]
+  },
+  {
+   "heading": "114'05 PORTABLE EXTENDED RANGE VU METER",
+   "paragraphs": [
+    "8) An Input connlN: led 10 the meier v i.. the telephone type input j.. \"k \" u tomalic\" lly disc on n lN:l S the binding POSI termin\" ls from the input circuit.",
+    "The 114405 input offers a flo ali ng input 10 the source. The body of the telephone j \"\"k and the ground binding p o,\", t e r min ala re coon ect ec tot h e c h \" s sl s ground o f the Ins t r u men t.",
+    "9) A h e \"dSet maybe \"onn tN;ted via OUlput telephone j \"c k J5 In order to listen to I hep r o gram tran smi s s ion lInd to Identify Ihe meter Ind lc\" t lon. Ina dd iti on, this \"\"tp ul source offer.. Ih e cap a b lilly o fdr ivin g a 600 ohm line 10 appro><im\"tel y 0 dBm and hence ada p l s Ih e 1144 05 for booster amp H fie r app lica t iOlu with a visual indica lion o f pro g r.. m Iran sm iss ion. Low level inPUI sIgnals from _!>O dB l'Il maybe a djus led via Ihe /l44 OS amplifier ci rc u i l to produce 0 dBm \" I JS ou tpu l.",
+    "10) Calibrlll ed ROl a ry All enu a to.- (RJ) con l ro ls the range oft h ein Sl rument. ' 0 5teps <Ire provided, wil h cIolenlS, and Ih e pot en ti ome le r is <lrrll n ged to atte n uale in 2 d B/s tep incr~en ts. The ins lrument p <ln eli sen graved 10 indicate the co rreocli on 11'1,,, i sad de d 10 Ih e meter indication to obtain the VU level read ing forth e c ircu i l of inter est. Levels from - SOd Bm to +30 dBm are accommodated and produce a 0 VU reading.",
+    "It) AC r e<e pta cl e. Con nK t power cord to recharge battery pack."
+   ]
+  },
+  {
+   "heading": "\"1405 PORTABLE EXTENDED RANGE VU METER",
+   "paragraphs": [
+    "The M405 is designed ford epen d able, lrou bl e -fre e service. However, as wilh all high quality electronic equipment, a regulars che d u leo f inspections h o u ld bees tab li shed. Any a c CUmUl lll ion of du sl should be periodically remo\"e d with a soft brush and a vaCuum hose.",
+    "Thea c ti ve circuitry maybe in spe cl e d by r emo v ing the in slru men l front panel. Remove Ih e two 4_40 screwS on top and I wo rubber feel lit the bollom thai SeCure the frO nl panel to the meter case.",
+    "The component board maybe removed for i n SP fCCl ion by removing the lw o nuts wh kh secure Ihe PC board to theme ter terminals. In l his manner access maybe gained 10 Ih e solders ide o f l he PC board.",
+    "If il i s necessary tor emo v e orin stall batteries, relea\",,\" the battery clamp. Disconnect the battery le r m ina l clips andre move batteries. InS l a l 1 new u olts and secure battery c1 l1mp by r e -Ioc llt ing the 4 _40 rela i n ing screws. The r elai n ing screws lap i nlO the meters ide P ll n e l.",
+    "If a t a ult iss us p ec led, measuring the d c voltage present a t the trans is lOr electrodes may ass i s l to determine l h e cause. When comparing theme \" \" ur\"\", en t s listed int h e voltage c h\"' ·t consider a t ions hou ld beg iv en to I he f llCl Ih llt, ford i r ec l coup led sections, a fault i none ci n:u il may CauSe abnormal conditions i not her circuit IIreas within the same section.",
+    "If i l is necessary to interchange a compo ne nl to determine the cause of a fa ul l, remove the s us p e c led c o mp one n l w ilh a smalls old erin g iron and a d e solde \"ing tool. Place I hes older ing iron and the de soldering tool on the solder connection 10 b e ee sc tee-eo. When the solder mells Ihoro ugh ly, press Ihe plunger release l rig ger. If any of I he lead connections stiCk to l h e printed circuit board, free them with ascribe Ora similar sharply pointed i n strum enl. Careful lyre move the component which, if proven 10 b e satisfactory, maybe used again for other app l ic a t ions.",
+    "to in slal l then ew component, shape lhe leads 10 the corrects pad n g. Ins erl tb e part and fold Ih e leads under Ihe printed c in:u il board to firmly hold the component. Clip off me excess wire",
+    "lea v: n gab o w 1/ 16 inch. Solder the n\" w leads, using resin Core",
+    "solder and clean n-e board w i l han incr! fluid such asp erch",
+    "lor elh ely n e.",
+    "The location o f components iss how n ind rawi n g 8142_06_001.",
+    "OC Voc. TAGE CHART"
+   ]
+  },
+  {
+   "heading": "\"\"405 PORTABLE EXTE NDEO RANGE VU \"\"ETER",
+   "paragraphs": [
+    "I. Ka signal applied.",
+    "2. Unit turned on w il l'l no a C power applied when measuring Cl to C7. AC power applied and c l'larger OPera l lng.. l'Ien me tlsur ing C8.",
+    "J. Bti ll er y volta g e 22.5 va I lS.",
+    "BATTERY CURRENT DRAIN lno signal applied) 1.25 mA",
+    "Kale: Will'l charger operating ball e r y reversed and sl'lou ld measure 7.8 rnA +/_l QS."
+   ]
+  }
+ ]
+}
