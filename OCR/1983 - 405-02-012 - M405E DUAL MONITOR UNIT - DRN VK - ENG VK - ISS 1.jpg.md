@@ -1,5 +1,5 @@
 # 1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1983 (title block date)

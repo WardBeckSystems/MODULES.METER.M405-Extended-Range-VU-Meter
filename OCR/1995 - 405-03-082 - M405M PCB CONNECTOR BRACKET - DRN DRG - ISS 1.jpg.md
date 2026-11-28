@@ -1,5 +1,5 @@
 # 1995 - 405-03-082 - M405M PCB CONNECTOR BRACKET - DRN DRG - ISS 1.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1995 (title block date)

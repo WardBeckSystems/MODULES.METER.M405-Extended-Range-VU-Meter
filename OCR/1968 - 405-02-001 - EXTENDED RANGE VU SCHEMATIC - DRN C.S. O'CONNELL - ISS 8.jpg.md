@@ -1,5 +1,5 @@
 # 1968 - 405-02-001 - EXTENDED RANGE VU SCHEMATIC - DRN C.S. O'CONNELL - ISS 8.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1968 (title block date)

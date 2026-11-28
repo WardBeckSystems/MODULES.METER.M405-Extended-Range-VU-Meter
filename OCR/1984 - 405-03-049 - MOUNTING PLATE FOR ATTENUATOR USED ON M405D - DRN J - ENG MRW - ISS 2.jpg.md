@@ -1,5 +1,5 @@
 # 1984 - 405-03-049 - MOUNTING PLATE FOR ATTENUATOR USED ON M405D - DRN J - ENG MRW - ISS 2.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1984 (title block date)

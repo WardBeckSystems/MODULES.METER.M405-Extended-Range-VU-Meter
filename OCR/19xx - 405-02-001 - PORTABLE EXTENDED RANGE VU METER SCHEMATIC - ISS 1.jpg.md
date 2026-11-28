@@ -1,5 +1,5 @@
 # 19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** unknown (title block (read by eye))

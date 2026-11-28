@@ -1,5 +1,5 @@
 # 1975 - M405 - Portable Extended Vu Meter (2).pdf
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

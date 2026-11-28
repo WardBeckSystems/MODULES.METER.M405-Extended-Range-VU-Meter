@@ -1,5 +1,5 @@
 # 19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (2).jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1971 - B 142-06-0-1 - EXTENDED RANGE VU-METER PC-BOARD LAYOUT - DRN MRW - ISS 5.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1971 (title block date)

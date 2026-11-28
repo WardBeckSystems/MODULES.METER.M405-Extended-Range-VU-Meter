@@ -1,5 +1,5 @@
 # 1975 - M405 - $(KGrHqJ,!qYFJStl!MvRBSWzk13LWQ~~60_57.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

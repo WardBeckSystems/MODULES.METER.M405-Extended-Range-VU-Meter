@@ -1,5 +1,5 @@
 # 1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1973 (title block date)

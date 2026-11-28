@@ -1,5 +1,5 @@
 # 1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1971 (title block date)

@@ -1,5 +1,5 @@
 # 1982 - 405-03-035 - ATTENUATOR MOUNTING PLATE - DRN DRG - ISS 2.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1982 (title block date)

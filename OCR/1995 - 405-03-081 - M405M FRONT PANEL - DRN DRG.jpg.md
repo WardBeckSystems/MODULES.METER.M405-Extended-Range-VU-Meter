@@ -1,5 +1,5 @@
 # 1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1995 (title block date)

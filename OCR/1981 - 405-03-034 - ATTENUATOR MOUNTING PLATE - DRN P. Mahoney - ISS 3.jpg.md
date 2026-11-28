@@ -1,5 +1,5 @@
 # 1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1981 (title block date)

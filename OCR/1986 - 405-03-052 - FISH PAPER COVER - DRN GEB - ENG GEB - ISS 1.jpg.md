@@ -1,5 +1,5 @@
 # 1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** 1986 (title block date)

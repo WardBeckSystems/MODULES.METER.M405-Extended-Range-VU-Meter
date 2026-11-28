@@ -1,5 +1,5 @@
 # 19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2.jpg
-Wiki page: [M405](../../../../PAGES/M405.md)
+Wiki page: [M405](../)
 
 
 - **Year:** unknown (title block (read by eye))
