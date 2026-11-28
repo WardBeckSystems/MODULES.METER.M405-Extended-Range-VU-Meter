@@ -4,13 +4,11 @@ Ward-Beck Systems M405, 1968|1. Wiki page: [M405 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 48 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 74 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 167 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 23 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 47 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 73 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 166 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 22 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 110 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -176,7 +174,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTUljYWpYaVItSjQ/view?resourcekey=0-zU0fIJJs7-RSQfCnsKy1nA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTUljYWpYaVItSjQ&resourcekey=0-zU0fIJJs7-RSQfCnsKy1nA" width="240" alt="1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE.jpg"></a><br><sub>1975|8 · 405-04-013 - PORTABLE EXTENDED RANGE · <a href="MECHANICAL/1975%20-%20M405%20-%20405-04-013%20-%20PORTABLE%20EXTENDED%20RANGE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1RMQ_xalM4KrZ0l7VweSzDTzwNG_AgBcn/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1RMQ_xalM4KrZ0l7VweSzDTzwNG_AgBcn" width="240" alt="19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES.jpg"></a><br><sub>19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES · <a href="MECHANICAL/19xx%20-%20M405%20-%20DOC%20-%20405-03-100%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1968 - 405-03-003 - COVER - ISS 1.jpg`, `1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2.jpg`, `1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1.jpg`, `1975 - 405-03-023 - TRIM STRIP M405C - DRN G. Young - ISS 3.jpg`, `1975 - 405-03-027 - SPACER M405C - DRN G. Young - ISS 3.jpg`, `1975 - 405-04-006 - M405C EXT. RANGE VU COMPONENT LAYOUT - DRN REB - ISS 2.jpg`, `1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3.jpg`, `1982 - 405-03-035 - ATTENUATOR MOUNTING PLATE - DRN DRG - ISS 2.jpg`, `1984 - 405-03-049 - MOUNTING PLATE FOR ATTENUATOR USED ON M405D - DRN J - ENG MRW - ISS 2.jpg`, `1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1.jpg`, `1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1.jpg`, `1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG.jpg`, `1995 - 405-03-082 - M405M PCB CONNECTOR BRACKET - DRN DRG - ISS 1.jpg`, `19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2.jpg`
+## 3-D model
+
+[`MECHANICAL/M405.stl`](MECHANICAL/M405.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M405)
+
+- **Size:** 125 × 225 mm panel, 125 mm deep, 3.2 mm plate (TECHNICAL DATA: 5.00" wide 9.00" high 5.00" deep (125mm 225mm 125mm))
+- **From the drawing:** 13 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M405 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M405.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -185,8 +189,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN1BBcVEtRWdENkU/view?resourcekey=0-8jwWK7lFJ8iH7ru3vyzPkA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN1BBcVEtRWdENkU&resourcekey=0-8jwWK7lFJ8iH7ru3vyzPkA" width="240" alt="1975 - M405 - 142-06-001 - EXTENDED RANGE AMPLIFIER COMPONENT LAYOUT.jpg"></a><br><sub>1975|8 · 142-06-001 - EXTENDED RANGE AMPLIFIER COMPONENT LAYOUT · <a href="SCHEMATICS/1975%20-%20M405%20-%20142-06-001%20-%20EXTENDED%20RANGE%20AMPLIFIER%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1968 - 405-02-001 - EXTENDED RANGE VU SCHEMATIC - DRN C.S. O'CONNELL - ISS 8.jpg`, `1971 - B 142-06-0-1 - EXTENDED RANGE VU-METER PC-BOARD LAYOUT - DRN MRW - ISS 5.jpg`, `1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1.jpg`, `19xx - 405-01-011 - EXTENDED RANGE METER FUNTIONAL DIAGRAM - ISS 1 (2).jpg`, `19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1.jpg`, `19xx - 405-06-011 - EXTENDED RANGE METER PERSPECTIVE LAYOUT - ISS 1 (2).jpg`, `19xx - 405-06-015 - EXTENDED RANGE VU METER PERSPECTIVE LAYOUT - ISS 1 (2).jpg`
 
 ## Manuals and documents
 
@@ -232,7 +234,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 405-02-001 - PORTABLE EXTENDED RANGE VU METER SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20405-02-001%20-%20PORTABLE%20EXTENDED%20RANGE%20VU%20METER%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [19xx - 405-02-001.kicad_sch](KICAD/19xx%20-%20405-02-001.kicad_sch)
 - [M405.kicad_sym](KICAD/M405.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
